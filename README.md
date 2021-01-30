@@ -1,3 +1,3 @@
-<h1 align="center">![image](https://imgur.com/a/Axg5SBx)</h1>
+![image](https://imgur.com/a/Axg5SBx)
 
 <h1 align="center">Hi 
