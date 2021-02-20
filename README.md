@@ -1,7 +1,5 @@
 
-<h1 align="center">Hi 🖐
-
-
+<h1 align="center">Hi 🖐>
 
 [![Get in touch via Discord](https://badges.krynn.dev/discord/?id=344835520347766785)](https://github.com/IM-IgniteDEV)
 
