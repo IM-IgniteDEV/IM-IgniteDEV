@@ -44,8 +44,7 @@ Although I took a break from development due to burnout after years of nonstop w
 
 ## 🔗 More of My Work
 
-- **SpigotMC:** [2DevsStudio](https://www.spigotmc.org/members/2devsstudio.596329/)  
-- **GitHub:** [IM-IgniteDEV](https://github.com/IM-IgniteDEV)
+- **SpigotMC:** [2DevsStudio](https://www.spigotmc.org/members/2devsstudio.596329/) 
 
 
 <h3 align="left">Languages and Tools:</h3>
