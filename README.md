@@ -4,8 +4,6 @@
 <a href="https://discord.gg/FvWqBS9b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="344835520347766785" height="30" width="40" /></a>
 </p>
 
-# 👋 Hi, I'm Ignite (Previously ran 2DevsStudio)
-
 🎮 **Minecraft Plugin Developer | 10 Years of Coding Experience | Former Owner of 2DevsStudio**
 
 I’m a developer with over a decade of experience in programming and more than 5 years focused on Minecraft plugin development.  
