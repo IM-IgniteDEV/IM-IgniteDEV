@@ -18,7 +18,6 @@ I previously ran **2DevsStudio**, through which I led and delivered custom solut
 ## 🚀 Notable Projects
 
 - **JasMC.PL** – Polish MiniGames server _(Lead Developer)_  
-- **Archia.EU** – A passion-driven RPG project developed over 6 years  
 - **AnubisMC.com**  
 - **FajnyCraft.PL**  
 - **Suecoblock**  
