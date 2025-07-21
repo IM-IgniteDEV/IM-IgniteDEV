@@ -21,8 +21,15 @@ I previously ran **2DevsStudio**, through which I led and delivered custom solut
 - **AnubisMC.com**  
 - **FajnyCraft.PL**  
 - **Suecoblock**  
-- **Curiocraft.net**  
-- **StellarDEV** & **Vertmix** – Development Team Collaborations  
+- **Curiocraft.net**
+
+## Development Team Collaborations
+
+- **StellarDEV**
+- **Vertmix**
+- **FireStreak**
+- **Rollerite**
+- **Halos Development**
 
 ## 📈 High-Traffic Experience
 
