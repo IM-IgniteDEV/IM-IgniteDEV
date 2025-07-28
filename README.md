@@ -30,6 +30,7 @@ I previously ran **2DevsStudio**, through which I led and delivered custom solut
 - **FireStreak**
 - **Rollerite**
 - **Halos Development**
+- **Neptune Services**
 
 ## 📈 High-Traffic Experience
 
