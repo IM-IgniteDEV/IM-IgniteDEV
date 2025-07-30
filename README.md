@@ -22,12 +22,13 @@ I previously ran **2DevsStudio**, through which I led and delivered custom solut
 - **FajnyCraft.PL**  
 - **Suecoblock**  
 - **Curiocraft.net**
+- **FireStreak**
 
 ## Development Team Collaborations
 
+- **2DevsStudio**
 - **StellarDEV**
 - **Vertmix**
-- **FireStreak**
 - **Rollerite**  < ACTIVE >
 - **Halos Development** < ACTIVE >
 - **Neptune Services** < ACTIVE > 
