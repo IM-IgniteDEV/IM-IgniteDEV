@@ -28,9 +28,10 @@ I previously ran **2DevsStudio**, through which I led and delivered custom solut
 - **StellarDEV**
 - **Vertmix**
 - **FireStreak**
-- **Rollerite**
-- **Halos Development**
-- **Neptune Services**
+- **Rollerite**  <ACTIVE>
+- **Halos Development** <ACTIVE>
+- **Neptune Services** <ACTIVE> 
+- **Spark Studios** <ACTIVE>
 
 ## 📈 High-Traffic Experience
 
