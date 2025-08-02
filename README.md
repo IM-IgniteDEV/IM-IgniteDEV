@@ -6,7 +6,7 @@
 
 🎮 **Minecraft Plugin Developer | 10 Years of Coding Experience | Former Owner of 2DevsStudio**
 
-I’m a developer with over a decade of experience in programming and more than 5 years focused on Minecraft plugin development.  
+I’m a developer with over a decade of experience in programming and more than 7 years focused on Minecraft plugin development.  
 I previously ran **2DevsStudio**, through which I led and delivered custom solutions for high-budget Minecraft server projects, collaborating with both Polish and international teams.
 
 ## 🛠️ Tech Stack
