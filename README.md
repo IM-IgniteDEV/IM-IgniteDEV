@@ -33,6 +33,7 @@ I previously ran **2DevsStudio**, through which I led and delivered custom solut
 - **Halos Development** < ACTIVE >
 - **Neptune Services** < ACTIVE > 
 - **Spark Studios** < ACTIVE >
+- **DevRoom** < ACTIVE >
 
 ## 📈 High-Traffic Experience
 
