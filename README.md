@@ -13,7 +13,11 @@
 I'm a passionate Minecraft plugin developer with over **10 years of programming experience** and **7+ years specializing in Minecraft server plugins**.  
 Former owner of **2DevsStudio**, where I led custom projects for high-budget Minecraft servers, working with both Polish and international teams.
 
-After a brief break to recharge from burnout (started coding at 13!), I'm back with renewed energy and focus — ready to build scalable, performant Minecraft backend solutions.
+---
+
+## ❤️ Passion Reignited
+
+Although I took a break from development due to burnout after years of nonstop work (starting at age 13!), I’ve returned with the same passion and focus. Programming is what truly drives me — and the name **IgniteDEV** reflects that fire and renewed energy.
 
 ---
 
@@ -57,7 +61,8 @@ I've collaborated with top YouTubers like **JDabrowsky**, **Gimper**, **GamingCu
 
 ## 🌟 Find Me Online
 
-- SpigotMC: [2DevsStudio](https://www.spigotmc.org/members/2devsstudio.596329/)  
+- SpigotMC: [2DevsStudio](https://www.spigotmc.org/members/2devsstudio.596329/)
+- BuiltByBit: [2DevsStudio](https://builtbybit.com/members/2devsstudio.289748/)
 - Discord: [Join here](https://discord.gg/FvWqBS9b)  
 
 ---
