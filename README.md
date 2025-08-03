@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateusz Jasiński — aka <strong>"IgniteDEV"</strong></h1>
 
 <p align="center">
-  <a href="https://discord.gg/FvWqBS9b" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /> IgniteDEV#1465
 </p>
 
 ---
@@ -63,7 +61,7 @@ I've collaborated with top YouTubers like **JDabrowsky**, **Gimper**, **GamingCu
 
 - SpigotMC: [2DevsStudio](https://www.spigotmc.org/members/2devsstudio.596329/)
 - BuiltByBit: [2DevsStudio](https://builtbybit.com/members/2devsstudio.289748/)
-- Discord: [Join here](https://discord.gg/FvWqBS9b)  
+- Discord: IgniteDEV#1465 
 
 ---
 
