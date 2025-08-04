@@ -40,7 +40,7 @@ Although I took a break from development due to burnout after years of nonstop w
 
 ## 🤝 Current Collaborations
 
-- 2DevsStudio  
+- Ignited Studios (2DevsStudio) (Active)
 - StellarDEV  
 - Vertmix  
 - Rollerite (Active)  
@@ -60,7 +60,7 @@ I've collaborated with top YouTubers like **JDabrowsky**, **Gimper**, **GamingCu
 ## 🌟 Find Me Online
 
 - SpigotMC: [2DevsStudio](https://www.spigotmc.org/members/2devsstudio.596329/)
-- BuiltByBit: [2DevsStudio](https://builtbybit.com/members/2devsstudio.289748/)
+- BuiltByBit: [Ignited Studios](https://builtbybit.com/members/ignited-studios.289748/)
 - Discord: IgniteDEV#1465 
 
 ---
