@@ -34,7 +34,7 @@ Although I took a break from development due to burnout after years of nonstop w
 - **AnubisMC.com** — Multi gamemodes server offering diverse Minecraft experiences  
 - **Suecoblock** — Custom survival server created for artist *suecothechild*  
 - **Curiocraft.net** — Survival with RPG elements tailored for YouTuber *Baked/GamingCurios*  
-- **FireStreak**  
+- **FireStreak** - MP Speedrun
 
 ---
 
