@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mateusz Jasiński — aka <strong>"IgniteDEV"</strong></h1>
+<h1 align="center">Hi 👋, I'm Mateusz Jasiński - aka <strong>"IgniteDEV"</strong></h1>
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /> IgniteDEV#1465
@@ -15,7 +15,7 @@ Former owner of **2DevsStudio**, where I led custom projects for high-budget Min
 
 ## ❤️ Passion Reignited
 
-Although I took a break from development due to burnout after years of nonstop work (starting at age 13!), I’ve returned with the same passion and focus. Programming is what truly drives me — and the name **IgniteDEV** reflects that fire and renewed energy.
+Although I took a break from development due to burnout after years of nonstop work (starting at age 13!), I’ve returned with the same passion and focus. Programming is what truly drives me - and the name **IgniteDEV** reflects that fire and renewed energy.
 
 ---
 
@@ -29,11 +29,11 @@ Although I took a break from development due to burnout after years of nonstop w
 
 ## 🚀 Notable Projects
 
-- **JasMC.PL** — Polish MiniGames server _(Lead Developer)_  
-- **FajnyCraft.PL** — SkyBlock server with unique gameplay features  
-- **AnubisMC.com** — Multi gamemodes server offering diverse Minecraft experiences  
-- **Suecoblock** — Custom survival server created for artist *suecothechild*  
-- **Curiocraft.net** — Survival with RPG elements tailored for YouTuber *Baked/GamingCurios*  
+- **JasMC.PL** - Polish MiniGames server _(Lead Developer)_  
+- **FajnyCraft.PL** - SkyBlock server with unique gameplay features  
+- **AnubisMC.com** - Multi gamemodes server offering diverse Minecraft experiences  
+- **Suecoblock** - Custom survival server created for artist *suecothechild*  
+- **Curiocraft.net** - Survival with RPG elements tailored for YouTuber *Baked/GamingCurios*  
 - **FireStreak** - MP Speedrun
 
 ---
@@ -100,6 +100,6 @@ I've collaborated with top YouTubers like **JDabrowsky**, **Gimper**, **GamingCu
 
 ## 🤙 Let's Connect!
 
-If you want to chat about Minecraft plugin development, backend scaling, or collaborate on a project — feel free to reach out!
+If you want to chat about Minecraft plugin development, backend scaling, or collaborate on a project - feel free to reach out!
 
 ---
