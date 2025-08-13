@@ -18,7 +18,7 @@
 ---
 
 ## ❤️ Passion Reignited
-After a short break due to burnout (I started coding at **13 years old**!), I'm back — stronger, sharper, and more creative. The name **IgniteDEV** reflects my reignited passion for crafting code that powers unforgettable Minecraft experiences.
+After a short break due to burnout (I started coding at **13 years old**!), I'm back - stronger, sharper, and more creative. The name **IgniteDEV** reflects my reignited passion for crafting code that powers unforgettable Minecraft experiences.
 
 ---
 
