@@ -1,6 +1,6 @@
 <!-- Hero Section -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=F78B3D&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mateusz+Jasi%C5%84ski;aka+IgniteDEV;Minecraft+Plugin+Architect+%26+Backend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F78B3D&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Mateusz+Jasi%C5%84ski;aka+IgniteDEV;Minecraft+Plugin+Architect+%26+Backend+Developer;10%2B+Years+of+Programming+Experience;7%2B+Years+of+Minecraft+Development" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -29,29 +29,36 @@ After a short break due to burnout (I started coding at **13 years old**!), I'm 
 
 ---
 
-## 🚀 Current Collaborations  
-<p>
-  <img src="https://img.shields.io/badge/Ignited%20Studios-%E2%9A%A1-orange?style=for-the-badge&logo=java" /> <sub>(formerly 2DevsStudio – my own studio for plugins, graphics & general programming)</sub><br/>
-  <img src="https://img.shields.io/badge/Rollerite-%F0%9F%94%A5-red?style=for-the-badge&logo=teamspeak" /> Freelancer Team<br/>
-  <img src="https://img.shields.io/badge/Halos%20Development-%E2%9C%A8-purple?style=for-the-badge&logo=discord" /> Freelancer Team<br/>
-  <img src="https://img.shields.io/badge/Neptune%20Services-%F0%9F%8C%8A-blue?style=for-the-badge&logo=github" /> Freelancer Team<br/>
-  <img src="https://img.shields.io/badge/Spark%20Studios-%F0%9F%94%A5-orange?style=for-the-badge&logo=visualstudiocode" /> Freelancer Team<br/>
-  <img src="https://img.shields.io/badge/DevRoom-%F0%9F%92%A1-yellow?style=for-the-badge&logo=slack" /> Freelancer Team<br/>
-  <img src="https://img.shields.io/badge/Nexon%20Studios-%E2%9A%A1-green?style=for-the-badge&logo=discord" /> Freelancer Team
-</p>
+## 🚀 Current Projects
+- **HobbitMC** – Lead developer, fixing plugins & creating Hobbit-themed custom systems  
+- **LegionMC** – New vision for the Factions gamemode  
+- **LeoneMC** – Developer
 
 ---
 
 ## 🏆 Past Projects
-- **StellarDEV** – Premade & custom plugins developer  
+- **StellarDEV** – Premade & custom plugin developer  
 - **Vertmix** – Long-term contract for high-profile clients  
+
+### 🌟 Notable Projects
+- **JasMC.PL** – Polish MiniGames server (Lead Developer)  
+- **FajnyCraft.PL** – SkyBlock server with unique gameplay features  
+- **AnubisMC.com** – Multi gamemodes server offering diverse Minecraft experiences  
+- **Suecoblock** – Custom survival server created for artist suecothechild  
+- **Curiocraft.net** – Survival with RPG elements tailored for YouTuber Baked/GamingCurios  
+- **FireStreak** – Multiplayer Speedrun server
 
 ---
 
-## 🎯 Current Projects
-- **HobbitMC** – Lead developer, fixing plugins & creating custom systems (Hobbit-themed)  
-- **LegionMC** – New vision of Factions  
-- **LeoneMC** – Developer
+## 📜 Activity Timeline
+| Year | Role & Project | Highlights |
+|------|----------------|------------|
+| **2025** | Lead Developer – *HobbitMC* | Custom Hobbit-themed systems, plugin fixes, optimizations |
+| **2024** | Developer – *LegionMC / LeoneMC* | Building gamemode systems & backend integrations |
+| **2022-2023** | Plugin Architect – *StellarDEV / Vertmix* | Custom orders & premade plugins for large servers |
+| **2019-2022** | Owner – *2DevsStudio* (Now Ignited Studios) | Plugins, graphics, backend systems |
+| **2016-2019** | Independent Minecraft Developer | Custom minigames, API & DB integrations |
+| **2013-2016** | Self-Taught Programmer | Learned Java, C#, PHP – started at age 13 |
 
 ---
 
