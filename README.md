@@ -1,148 +1,80 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff6f3c&height=200&section=header&text=IgniteDEV🔥&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%" />
-
-<h1 align="center">Hi 👋, I'm Mateusz Jasiński — aka <strong>"IgniteDEV"</strong></h1>
+<!-- Hero Section -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=F78B3D&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mateusz+Jasi%C5%84ski;aka+IgniteDEV;Minecraft+Plugin+Architect+%26+Backend+Developer" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /> IgniteDEV#1465
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  IgniteDEV#1465
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-I’m a passionate **Minecraft plugin developer** with over **10 years of programming experience** and **7+ years specializing in Minecraft server plugins**.  
-Former owner of **2DevsStudio** (now **Ignited Studios**), delivering high-quality custom solutions for high-budget servers — collaborating with both **Polish** and **international** teams.
+## 👨‍💻 About Me  
+🔥 Passionate Minecraft plugin developer with **10+ years of programming** and **7+ years in server-side development**.  
+💡 Former owner of **2DevsStudio** (now **Ignited Studios**), delivering high-end solutions for Polish and international servers.  
+⚡ Backend systems expert, capable of handling **millions of concurrent players**.
 
 ---
 
 ## ❤️ Passion Reignited
-
-After years of nonstop coding since the age of 13, I took a short break to recover from burnout.  
-Now I’m back — more focused, creative, and determined than ever. The name **IgniteDEV** represents the **fire** that drives my work and the **energy** I bring to every project.
+After a short break due to burnout (I started coding at **13 years old**!), I'm back — stronger, sharper, and more creative. The name **IgniteDEV** reflects my reignited passion for crafting code that powers unforgettable Minecraft experiences.
 
 ---
 
-## 🛠️ Skills in Action
-
-- 🛠️ **Custom Plugins** — complex gameplay mechanics, anti-cheat systems, backend integrations  
-- 🌍 **Network Infrastructure** — proxy setup, multi-server scaling, load balancing  
-- 📦 **Database Design** — efficient schemas, caching systems, async queries  
-- ⚡ **Performance Optimization** — tick reduction, async event handling, GC tuning  
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,php,js,nodejs,html,css,mysql,postgresql,mongodb,redis,rabbitmq,linux,kubernetes,git,unity,unreal" />
+</p>
 
 ---
 
-## 🚀 Notable Projects
-
-- **JasMC.PL** — Polish MiniGames server _(Lead Developer)_  
-- **FajnyCraft.PL** — SkyBlock server with unique gameplay mechanics  
-- **AnubisMC.com** — Multi-gamemode server offering diverse experiences  
-- **Suecoblock** — Custom survival server for artist *suecothechild*  
-- **Curiocraft.net** — Survival + RPG for YouTuber *Baked / GamingCurios*  
-- **FireStreak** — Multiplayer Speedrun platform
-
----
-
-## 🤝 Current Collaborations
-
-- 🔥 **Ignited Studios** (formerly 2DevsStudio) — My own creation specializing in Minecraft plugins, graphics, and general programming solutions.  
-- 🚀 **Rollerite** — Freelancer team  
-- 🛡️ **Halos Development** — Freelancer team  
-- 🌊 **Neptune Services** — Freelancer team  
-- 🔥 **Spark Studios** — Freelancer team  
-- 💻 **DevRoom** — Freelancer team  
-- 🌟 **Nexon Studios** — Freelancer team  
+## 🚀 Current Collaborations  
+<p>
+  <img src="https://img.shields.io/badge/Ignited%20Studios-%E2%9A%A1-orange?style=for-the-badge&logo=java" /> <sub>(formerly 2DevsStudio – my own studio for plugins, graphics & general programming)</sub><br/>
+  <img src="https://img.shields.io/badge/Rollerite-%F0%9F%94%A5-red?style=for-the-badge&logo=teamspeak" /> Freelancer Team<br/>
+  <img src="https://img.shields.io/badge/Halos%20Development-%E2%9C%A8-purple?style=for-the-badge&logo=discord" /> Freelancer Team<br/>
+  <img src="https://img.shields.io/badge/Neptune%20Services-%F0%9F%8C%8A-blue?style=for-the-badge&logo=github" /> Freelancer Team<br/>
+  <img src="https://img.shields.io/badge/Spark%20Studios-%F0%9F%94%A5-orange?style=for-the-badge&logo=visualstudiocode" /> Freelancer Team<br/>
+  <img src="https://img.shields.io/badge/DevRoom-%F0%9F%92%A1-yellow?style=for-the-badge&logo=slack" /> Freelancer Team<br/>
+  <img src="https://img.shields.io/badge/Nexon%20Studios-%E2%9A%A1-green?style=for-the-badge&logo=discord" /> Freelancer Team
+</p>
 
 ---
 
-## 📌 Current Projects
-
-- 🏰 **HobbitMC** — Lead developer; creating and fixing plugins, developing custom systems based on the *Hobbit* theme.  
-- ⚔️ **LegionMC** — A fresh take on the *Factions* game mode.  
-- 🐉 **LeoneMC** — Developer.
+## 🏆 Past Projects
+- **StellarDEV** – Premade & custom plugins developer  
+- **Vertmix** – Long-term contract for high-profile clients  
 
 ---
 
-## 🕰️ Past Projects
-
-- 🔥 **Ignited Studios (2DevsStudio)** — Boutique dev studio delivering premium Minecraft solutions.  
-- 🌌 **StellarDEV** — Developer of premade plugins & custom commissions.  
-- 🎯 **Vertmix** — Long-term contract work for large-scale clients.  
+## 🎯 Current Projects
+- **HobbitMC** – Lead developer, fixing plugins & creating custom systems (Hobbit-themed)  
+- **LegionMC** – New vision of Factions  
+- **LeoneMC** – Developer
 
 ---
 
 ## 💬 Testimonials
-
-> *"Excellent development team, quick and helpful. Misunderstandings due to my bad English were quickly resolved with excellent results."*  
-> — **Monsterhit2**  
-
-> *"Vouch! They work quickly and produce high-quality work! Thank you again!"*  
-> — **Iyaku**  
-
-> *"Very good support, and they know how to work well with databases, Linux, and Java!"*  
-> — **BBspaigot**  
-
-> *"Huge vouch — friendly and professional throughout the whole process. Always meets my expectations."*  
-> — **kawaii**  
-
-> *"Vouch — great worker, extremely motivated, grinds hard every day. Will work together again."*  
-> — **Gokor**  
-
-> *"Very good experience with this dev, highly suggest them! Fast and reliable."*  
-> — **Hellcode48**  
+> 🏆 **"Excellent development team, quick and helpful. Misunderstandings due to my bad English, but they made up for it by completing the work excellently."** – *Monsterhit2*  
+> 💡 **"Huge vouch for this guy – friendly, professional, always meets expectations."** – *kawaii*  
+> ⚡ **"Fast, cheap, reliable."** – *CDFN*  
+> 🔥 **"Great worker, extremely motivated, grinds hard every day."** – *Gokor*  
+> 🚀 **"They work quickly and produce high quality work!"** – *Iyaku*
 
 ---
 
-## 🎮 High-Traffic Server Experience
-
-Worked alongside top YouTubers like **JDabrowsky**, **Gimper**, **GamingCurios**, and **Sueco**, creating backend systems capable of handling **millions of concurrent players** without compromise.
-
----
-
-## 🌍 Find Me Online
-
-[![Discord](https://img.shields.io/badge/Discord-IgniteDEV%231465-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)  
-[![SpigotMC](https://img.shields.io/badge/SpigotMC-2DevsStudio-orange?style=for-the-badge)](https://www.spigotmc.org/members/2devsstudio.596329/)  
-[![BuiltByBit](https://img.shields.io/badge/BuiltByBit-Ignited%20Studios-blue?style=for-the-badge)](https://builtbybit.com/members/ignited-studios.289748/)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=im-ignitedev&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-ignitedev&layout=compact&theme=radical" height="150" />
+</p>
 
 ---
 
-## 🧰 Languages & Tools
-
+## 🤝 Let's Connect!
 <p>
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://www.rabbitmq.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/></a>
-  <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/></a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/></a>
-  <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/></a>
-  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/></a>
-  <a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/></a>
+  <a href="https://www.spigotmc.org/members/2devsstudio.596329/"><img src="https://img.shields.io/badge/SpigotMC-%2300AEEF.svg?style=for-the-badge&logo=spigotmc&logoColor=white" /></a>
+  <a href="https://builtbybit.com/members/ignited-studios.289748/"><img src="https://img.shields.io/badge/BuiltByBit-%23FF6B6B.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://discord.com/users/"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=im-ignitedev&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-ignitedev&theme=dark" alt="GitHub Streak" />
-</p>
-
----
-
-## 🤙 Let's Connect!
-
-If you want to discuss **Minecraft plugin development**, **backend scaling**, or collaborate on something unique — drop me a message!
