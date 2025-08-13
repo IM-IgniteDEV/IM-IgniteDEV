@@ -47,7 +47,14 @@ Although I took a break from development due to burnout after years of nonstop w
 - Halos Development (Active)  
 - Neptune Services (Active)  
 - Spark Studios (Active)  
-- DevRoom (Active)  
+- DevRoom (Active)
+- Nexon Studios (Active)
+
+## 🛠️ Current Projects
+
+- HobbitMC
+- LegionMC
+- LeoneMC
 
 ---
 
