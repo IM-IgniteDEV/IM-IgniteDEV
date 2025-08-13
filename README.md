@@ -51,14 +51,20 @@ After a short break due to burnout (I started coding at **13 years old**!), I'm 
 ---
 
 ## 📜 Activity Timeline
-| Year | Role & Project | Highlights |
-|------|----------------|------------|
-| **2025** | Lead Developer – *HobbitMC* | Custom Hobbit-themed systems, plugin fixes, optimizations |
-| **2024** | Developer – *LegionMC / LeoneMC* | Building gamemode systems & backend integrations |
-| **2022-2023** | Plugin Architect – *StellarDEV / Vertmix* | Custom orders & premade plugins for large servers |
-| **2019-2022** | Owner – *2DevsStudio* (Now Ignited Studios) | Plugins, graphics, backend systems |
-| **2016-2019** | Independent Minecraft Developer | Custom minigames, API & DB integrations |
-| **2013-2016** | Self-Taught Programmer | Learned Java, C#, PHP – started at age 13 |
+
+| Dates | Role & Project | Highlights |
+|-------|----------------|------------|
+| **2025 – Present** | **Lead Developer – HobbitMC** | Custom Hobbit-themed systems, plugin fixes, optimizations |
+| **2025 – Present** | **Developer – LegionMC / LeoneMC** | Building gamemode systems & backend integrations |
+| **Nov 2021 – Present** | **CEO & Java Developer – Ignited Studios (formerly 2DevsStudio)** | Plugins, graphics, backend systems for Minecraft & general software |
+| **Nov 2021 – Jan 2023** | **Lead Developer – Curiocraft.net** | Survival RPG server for YouTuber Baked/GamingCurios |
+| **Jan 2021 – Nov 2022** | **Spigot/Proxy Plugin Developer – StellarDEV** | Premade & custom plugins for large servers |
+| **Jan 30 2021 – May 2021** | **Developer – FireStreak** | Multiplayer Speedrun systems, custom game logic |
+| **Feb 2020 – May 2021** | **Spigot Plugin Developer – AnubisMC.com** | Multi-gamemode server, backend optimization |
+| **Feb 2020 – Nov 2020** | **Plugin Developer – Vertmix Development Team** | Long-term custom orders for high-profile clients |
+| **Apr 2018 – Mar 2019** | **Lead Developer – JasMC.PL** | Created a big network in cooperation with Polish YouTuber JDabrowsky |
+| **Dec 2017 – Oct 2018** | **Developer – FajnyCraft.PL** | Custom SkyBlock features and unique gameplay mechanics |
+
 
 ---
 
