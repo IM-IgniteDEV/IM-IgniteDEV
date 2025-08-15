@@ -53,16 +53,11 @@
 
 ---
 
-## ❤️ Passion Reignited
-Started coding at **13 years old**, took a break due to burnout - now fully **reignited** with more experience and vision than ever. The name **IgniteDEV** reflects my reignited passion for crafting code that powers unforgettable Minecraft experiences.
-
----
-
 ## 🚀 Current Projects
-- **HobbitMC** – Lead Developer *(full Hobbit-themed backend, performance fixes)*  
-- **LegionMC** – Lead Developer *(next-gen Factions server with custom core)*  
-- **LeoneMC** – Developer *(core gamemode plugins & optimizations)*  
-- **OneShotCannoning** – Lead Developer *(cannon mechanics rework for competitive servers)*  
+- **HobbitMC** - Lead Developer *(full Hobbit-themed backend, performance fixes)*  
+- **LegionMC** - Lead Developer *(next-gen Factions server with custom core)*  
+- **LeoneMC** - Developer *(core gamemode plugins & optimizations)*  
+- **OneShotCannoning** - Lead Developer *(cannon mechanics)*  
 
 ---
 
@@ -70,28 +65,33 @@ Started coding at **13 years old**, took a break due to burnout - now fully **re
 
 | Years         | Project / Role                       | Description                                                        | Tech Stack                                         |
 |---------------|--------------------------------------|--------------------------------------------------------------------|---------------------------------------------------|
-| 2025 – Present | **HobbitMC** – Developer             | Custom Hobbit-themed systems, backend optimization                 | Java · PaperMC · MySQL · MongoDB · Redis           |
-| 2025 – Present | **OneShotCannoning** – Lead Dev       | Cannoning systems rework for performance & accuracy                | Java · Sakura-PaperFork                            |
-| 2025 – Present | **LegionMC** – Lead Dev               | Factions core, scalable backend, DB integration                    | Java · PaperMC · MongoDB · Velocity · Redis        |
-| 2025 – Present | **LeoneMC** – Developer               | New mechanics, plugin maintenance                                  | Java · Spigot · PaperMC                             |
-| 2021 – Present | **Ignited Studios** – CEO             | Studio delivering plugins & full network setups                     | Java · Velocity · Spigot · PaperMC · MySQL · Redis |
-| 2021 – 2023   | **Curiocraft.net** – Lead Dev          | RPG Survival backend for YouTuber Baked                             | Java · PaperMC · MySQL · Redis · MongoDB           |
-| 2021 – 2022   | **StellarDEV** – Plugin Dev            | Client projects for Minecraft networks                              | Java · Spigot · PaperMC · MySQL · Redis · MongoDB  |
-| 2020 – 2021   | **AnubisMC.com** – Plugin Dev          | Optimized gamemode plugins & backend                                | Java · PaperMC · MySQL · Redis · MongoDB           |
-| 2020 – 2021   | **Suecoblock** – Plugin Dev            | Custom gamemode server for Suecothechild                             | Java · PaperMC · BungeeCord · MySQL · Redis · MongoDB |
-| 2018 – 2019   | **JasMC.PL** – Lead Dev                | MiniGames network for YouTuber JDabrowsky                            | Java · PaperMC · BungeeCord · MySQL · Redis         |
+| 2025 - Present | **HobbitMC** - Developer             | Custom Hobbit-themed systems, backend optimization                 | Java · PaperMC · MySQL · MongoDB · Redis           |
+| 2025 - Present | **OneShotCannoning** - Lead Dev       | Cannoning systems plugins                                          | Java · Sakura-PaperFork                            |
+| 2025 - Present | **LegionMC** - Lead Dev               | Factions core, scalable backend, DB integration                    | Java · PaperMC · MongoDB · Velocity · Redis        |
+| 2025 - Present | **LeoneMC** - Developer               | New mechanics, plugin maintenance                                  | Java · Spigot · PaperMC                             |
+| 2021 - Present | **Ignited Studios** - CEO             | Studio delivering plugins & full network setups                     | Java · Velocity · Spigot · PaperMC · MySQL · Redis |
+| 2021 - 2023   | **Curiocraft.net** - Lead Dev          | RPG Survival backend for YouTuber Baked                             | Java · PaperMC · MySQL · Redis · MongoDB           |
+| 2021 - 2022   | **StellarDEV** - Plugin Dev            | Client projects for Minecraft networks                              | Java · Spigot · PaperMC · MySQL · Redis · MongoDB  |
+| 2020 - 2021   | **AnubisMC.com** - Plugin Dev          | Optimized gamemode plugins & backend                                | Java · PaperMC · MySQL · Redis · MongoDB           |
+| 2020 - 2021   | **Suecoblock** - Plugin Dev            | Custom gamemode server for Suecothechild                             | Java · PaperMC · BungeeCord · MySQL · Redis · MongoDB |
+| 2018 - 2019   | **JasMC.PL** - Lead Dev                | MiniGames network for YouTuber JDabrowsky                            | Java · PaperMC · BungeeCord · MySQL · Redis         |
 
 ---
 
 ## 💬 Testimonials
 
-> 🏆 **"Excellent developer, quick and helpful. Misunderstandings due to my bad English, but he made up for it by completing the work excellently."** – *Monsterhit2*  
-> 💡 **"Huge vouch for this guy – friendly, professional, always meets expectations."** – *kawaii*  
-> ⚡ **"Fast, cheap, reliable."** – *CDFN*  
-> 🔥 **"Great worker, extremely motivated, grinds hard every day."** – *Gokor*  
-> 🚀 **"He works quickly and produces high quality work!"** – *Iyaku*  
-> 🏛 **"Helped me develop a massive prison core with loads of features. I highly vouch for him. I’ve been through many devs before, but now I stick with him."** – *keys9*  
-> 🤝 **"Good and friendly developer."** – *Delusios*  
+> 🏆 **"Excellent developer, quick and helpful. Misunderstandings due to my bad English, but he made up for it by completing the work excellently."** - *Monsterhit2*  
+> 💡 **"Huge vouch for this guy - friendly, professional, always meets expectations."** - *kawaii*  
+> ⚡ **"Fast, cheap, reliable."** - *CDFN*  
+> 🔥 **"Great worker, extremely motivated, grinds hard every day."** - *Gokor*  
+> 🚀 **"He works quickly and produces high quality work!"** - *Iyaku*  
+> 🏛 **"Helped me develop a massive prison core with loads of features. I highly vouch for him. I’ve been through many devs before, but now I stick with him."** - *keys9*  
+> 🤝 **"Good and friendly developer."** - *Delusios*  
+
+---
+
+## ❤️ Passion Reignited
+Started coding at **13 years old**, took a break due to burnout - now fully **reignited** with more experience and vision than ever. The name **IgniteDEV** reflects my reignited passion for crafting code that powers unforgettable Minecraft experiences.
 
 ---
 
@@ -104,7 +104,7 @@ Started coding at **13 years old**, took a break due to burnout - now fully **re
 ---
 
 ## 🌐 Let's Connect!
-<p>
+<p align="center">
   <a href="https://www.spigotmc.org/members/2devsstudio.596329/"><img src="https://img.shields.io/badge/SpigotMC-%2300AEEF.svg?style=for-the-badge&logo=spigotmc&logoColor=white" /></a>
   <a href="https://builtbybit.com/members/ignited-studios.289748/"><img src="https://img.shields.io/badge/BuiltByBit-%23FF6B6B.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:ignitedevcontact@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
