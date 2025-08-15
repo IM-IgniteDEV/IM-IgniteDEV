@@ -54,7 +54,7 @@
 ---
 
 ## ❤️ Passion Reignited
-Started coding at **13 years old**, took a break due to burnout — now fully **reignited** with more experience and vision than ever. The name **IgniteDEV** reflects my commitment to creating code that powers unforgettable Minecraft experiences.
+Started coding at **13 years old**, took a break due to burnout - now fully **reignited** with more experience and vision than ever. The name **IgniteDEV** reflects my commitment to creating code that powers unforgettable Minecraft experiences.
 
 ---
 
@@ -66,63 +66,32 @@ Started coding at **13 years old**, took a break due to burnout — now fully **
 
 ---
 
-## 🏆 Past Projects Timeline (with descriptions)
+## 🏆 Past Projects Timeline
 
-**2025 – Present | HobbitMC (Developer)**  
-*Developing custom Hobbit-themed systems, optimizing backend plugins*  
-Tech: Java · PaperMC · MySQL · MongoDB · Redis  
-
-**2025 – Present | OneShotCannoning (Lead Dev)**  
-*Rewriting cannoning systems for performance & accuracy*  
-Tech: Java · Sakura-PaperFork  
-
-**2025 – Present | LegionMC (Lead Dev)**  
-*Building a Factions core from scratch, scalable backend, database integration*  
-Tech: Java · PaperMC · MongoDB · Velocity · Redis  
-
-**2025 – Present | LeoneMC (Developer)**  
-*Implementing new mechanics, maintaining server plugins*  
-Tech: Java · Spigot · PaperMC  
-
-**2021 – Present | Ignited Studios (CEO)**  
-*Running development studio delivering custom plugins and full network setups*  
-Tech: Java · Velocity · Spigot · PaperMC · MySQL · Redis · MongoDB  
-
-**2021 – 2023 | Curiocraft.net (Lead Dev)**  
-*RPG Survival backend for YouTuber Baked, implemented custom features and optimizations*  
-Tech: Java · PaperMC · MySQL · Redis · MongoDB  
-
-**2021 – 2022 | StellarDEV (Plugin Dev)**  
-*Worked on client projects for various Minecraft networks*  
-Tech: Java · Spigot · PaperMC · MySQL · Redis · MongoDB  
-
-**2020 – 2021 | AnubisMC.com (Plugin Dev)**  
-*Optimized gamemode plugins and backend systems*  
-Tech: Java · PaperMC · MySQL · Redis · MongoDB  
-
-**2020 – 2021 | Suecoblock (Plugin Dev)**  
-*Delivered custom gamemode server for Suecothechild*  
-Tech: Java · PaperMC · BungeeCord · MySQL · Redis · MongoDB  
-
-**2018 – 2019 | JasMC.PL (Lead Dev)**  
-*MiniGames network for YouTuber JDabrowsky, custom backend core*  
-Tech: Java · PaperMC · BungeeCord · MySQL · Redis  
+| Years         | Project / Role                       | Description                                                        | Tech Stack                                         |
+|---------------|--------------------------------------|--------------------------------------------------------------------|---------------------------------------------------|
+| 2025 – Present | **HobbitMC** – Developer             | Custom Hobbit-themed systems, backend optimization                 | Java · PaperMC · MySQL · MongoDB · Redis           |
+| 2025 – Present | **OneShotCannoning** – Lead Dev       | Cannoning systems rework for performance & accuracy                | Java · Sakura-PaperFork                            |
+| 2025 – Present | **LegionMC** – Lead Dev               | Factions core, scalable backend, DB integration                    | Java · PaperMC · MongoDB · Velocity · Redis        |
+| 2025 – Present | **LeoneMC** – Developer               | New mechanics, plugin maintenance                                  | Java · Spigot · PaperMC                             |
+| 2021 – Present | **Ignited Studios** – CEO             | Studio delivering plugins & full network setups                     | Java · Velocity · Spigot · PaperMC · MySQL · Redis |
+| 2021 – 2023   | **Curiocraft.net** – Lead Dev          | RPG Survival backend for YouTuber Baked                             | Java · PaperMC · MySQL · Redis · MongoDB           |
+| 2021 – 2022   | **StellarDEV** – Plugin Dev            | Client projects for Minecraft networks                              | Java · Spigot · PaperMC · MySQL · Redis · MongoDB  |
+| 2020 – 2021   | **AnubisMC.com** – Plugin Dev          | Optimized gamemode plugins & backend                                | Java · PaperMC · MySQL · Redis · MongoDB           |
+| 2020 – 2021   | **Suecoblock** – Plugin Dev            | Custom gamemode server for Suecothechild                             | Java · PaperMC · BungeeCord · MySQL · Redis · MongoDB |
+| 2018 – 2019   | **JasMC.PL** – Lead Dev                | MiniGames network for YouTuber JDabrowsky                            | Java · PaperMC · BungeeCord · MySQL · Redis         |
 
 ---
 
 ## 💬 Testimonials
 
-> **"Excellent developer, delivers on time, great communication."**  
-> – *Monsterhit2*  
-
-> **"Huge vouch – friendly, professional, and knows his stuff."**  
-> – *Koxu1337*  
-
-> **"Super motivated, grinds hard, high quality plugins."**  
-> – *Hexo*  
-
-> **"Fast, reliable, and very skilled. Would hire again."**  
-> – *Onyx*  
+> 🏆 **"Excellent developer, quick and helpful. Misunderstandings due to my bad English, but he made up for it by completing the work excellently."** – *Monsterhit2*  
+> 💡 **"Huge vouch for this guy – friendly, professional, always meets expectations."** – *kawaii*  
+> ⚡ **"Fast, cheap, reliable."** – *CDFN*  
+> 🔥 **"Great worker, extremely motivated, grinds hard every day."** – *Gokor*  
+> 🚀 **"He works quickly and produces high quality work!"** – *Iyaku*  
+> 🏛 **"Helped me develop a massive prison core with loads of features. I highly vouch for him. I’ve been through many devs before, but now I stick with him."** – *keys9*  
+> 🤝 **"Good and friendly developer."** – *Delusios*  
 
 ---
 
