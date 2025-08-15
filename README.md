@@ -11,7 +11,7 @@
 ---
 
 ## 👨‍💻 About Me  
-🔥 Passionate Minecraft plugin developer with **10+ years of programming** and **7+ years in server-side development**.  
+🔥 Passionate Minecraft plugin developer with **10+ years of programming** and **8+ years in server-side development**.  
 💡 Former owner of **2DevsStudio** (now **Ignited Studios**), delivering high-end solutions for Polish and international servers.  
 ⚡ Backend systems expert, capable of handling **millions of concurrent players**.
 
