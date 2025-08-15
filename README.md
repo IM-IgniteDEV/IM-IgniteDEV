@@ -33,6 +33,8 @@
   <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white" />
 </p>
 
 <p align="center">
@@ -57,49 +59,70 @@ Started coding at **13 years old**, took a break due to burnout — now fully **
 ---
 
 ## 🚀 Current Projects
-- **HobbitMC** – Lead Developer *(Hobbit-themed backend systems)*  
-- **LegionMC** – Lead Developer *(new-generation Factions server)*  
-- **LeoneMC** – Developer *(gamemode systems & backend)*  
-- **OneShotCannoning** – Lead Developer *(cannoning systems rewrite)*  
+- **HobbitMC** – Lead Developer *(full Hobbit-themed backend, performance fixes)*  
+- **LegionMC** – Lead Developer *(next-gen Factions server with custom core)*  
+- **LeoneMC** – Developer *(core gamemode plugins & optimizations)*  
+- **OneShotCannoning** – Lead Developer *(cannon mechanics rework for competitive servers)*  
 
 ---
 
-## 🏆 Past Projects (Highlights)
-- **JasMC.PL** – Lead Developer *(MiniGames network with YouTuber JDabrowsky)*  
-- **AnubisMC.com** – Plugin Developer *(multi-gamemode optimization)*  
-- **Suecoblock** – Custom server for **Suecothechild** *(full backend)*  
-- **Curiocraft.net** – Lead Developer *(RPG Survival for YouTuber Baked)*  
-- **FireStreak** – Developer *(Speedrun systems)*  
+## 🏆 Past Projects Timeline (with descriptions)
 
-*(Full timeline available below)*
+**2025 – Present | HobbitMC (Developer)**  
+*Developing custom Hobbit-themed systems, optimizing backend plugins*  
+Tech: Java · PaperMC · MySQL · MongoDB · Redis  
+
+**2025 – Present | OneShotCannoning (Lead Dev)**  
+*Rewriting cannoning systems for performance & accuracy*  
+Tech: Java · Sakura-PaperFork  
+
+**2025 – Present | LegionMC (Lead Dev)**  
+*Building a Factions core from scratch, scalable backend, database integration*  
+Tech: Java · PaperMC · MongoDB · Velocity · Redis  
+
+**2025 – Present | LeoneMC (Developer)**  
+*Implementing new mechanics, maintaining server plugins*  
+Tech: Java · Spigot · PaperMC  
+
+**2021 – Present | Ignited Studios (CEO)**  
+*Running development studio delivering custom plugins and full network setups*  
+Tech: Java · Velocity · Spigot · PaperMC · MySQL · Redis · MongoDB  
+
+**2021 – 2023 | Curiocraft.net (Lead Dev)**  
+*RPG Survival backend for YouTuber Baked, implemented custom features and optimizations*  
+Tech: Java · PaperMC · MySQL · Redis · MongoDB  
+
+**2021 – 2022 | StellarDEV (Plugin Dev)**  
+*Worked on client projects for various Minecraft networks*  
+Tech: Java · Spigot · PaperMC · MySQL · Redis · MongoDB  
+
+**2020 – 2021 | AnubisMC.com (Plugin Dev)**  
+*Optimized gamemode plugins and backend systems*  
+Tech: Java · PaperMC · MySQL · Redis · MongoDB  
+
+**2020 – 2021 | Suecoblock (Plugin Dev)**  
+*Delivered custom gamemode server for Suecothechild*  
+Tech: Java · PaperMC · BungeeCord · MySQL · Redis · MongoDB  
+
+**2018 – 2019 | JasMC.PL (Lead Dev)**  
+*MiniGames network for YouTuber JDabrowsky, custom backend core*  
+Tech: Java · PaperMC · BungeeCord · MySQL · Redis  
 
 ---
 
-## 📜 Activity Timeline
+## 💬 Testimonials
 
-| Dates | Role & Project | Tech |
-|-------|---------------|------|
-| **2025 – Present** | HobbitMC (Developer) | Java · PaperMC · MySQL · MongoDB · Redis |
-| **2025 – Present** | OneShotCannoning (Lead Dev) | Java · Sakura-PaperFork |
-| **2025 – Present** | LegionMC (Lead Dev) | Java · PaperMC · MongoDB · Velocity · Redis |
-| **2025 – Present** | LeoneMC (Developer) | Java · Spigot · PaperMC |
-| **2021 – Present** | Ignited Studios (CEO) | Java · Velocity · Spigot · PaperMC · MySQL · Redis · MongoDB |
-| **2021 – 2023** | Curiocraft.net (Lead Dev) | Java · PaperMC · MySQL · Redis · MongoDB |
-| **2021 – 2022** | StellarDEV (Plugin Dev) | Java · Spigot · PaperMC · MySQL · Redis · MongoDB |
-| **2020 – 2021** | AnubisMC.com (Plugin Dev) | Java · PaperMC · MySQL · Redis · MongoDB |
-| **2020 – 2021** | Suecoblock (Plugin Dev) | Java · PaperMC · BungeeCord · MySQL · Redis · MongoDB |
-| **2018 – 2019** | JasMC.PL (Lead Dev) | Java · PaperMC · BungeeCord · MySQL · Redis |
+> **"Excellent developer, delivers on time, great communication."**  
+> – *Monsterhit2*  
 
----
+> **"Huge vouch – friendly, professional, and knows his stuff."**  
+> – *Koxu1337*  
 
-## 💬 Quick Testimonials
+> **"Super motivated, grinds hard, high quality plugins."**  
+> – *Hexo*  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Excellent%20dev-fast%20%26%20reliable-brightgreen?style=flat" />
-  <img src="https://img.shields.io/badge/Huge%20vouch-friendly%20%26%20professional-blue?style=flat" />
-  <img src="https://img.shields.io/badge/Grinds%20hard-very%20motivated-orange?style=flat" />
-  <img src="https://img.shields.io/badge/High%20quality-fast%20delivery-yellow?style=flat" />
-</p>
+> **"Fast, reliable, and very skilled. Would hire again."**  
+> – *Onyx*  
 
 ---
 
