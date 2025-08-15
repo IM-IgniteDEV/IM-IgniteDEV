@@ -55,8 +55,9 @@ After a short break due to burnout (I started coding at **13 years old**!), I'm 
 | Dates | Role & Project | Highlights |
 |-------|----------------|------------|
 | **2025 – Present** | **Developer – HobbitMC** | Custom Hobbit-themed systems, plugin fixes, optimizations |
-| **2025 – Present** | **Lead Developer – OneShotCannoning** | Custom Hobbit-themed systems, plugin fixes, optimizations |
-| **2025 – Present** | **Lead Developer – LegionMC / LeoneMC** | Building gamemode systems & backend integrations |
+| **2025 – Present** | **Lead Developer – OneShotCannoning** | Lead Developer of Cannoning Server, fixing and rewritting systems |
+| **2025 – Present** | **Lead Developer – LegionMC** | Building new brand Factions server |
+| **2025 – Present** | **Developer – LeoneMC** | Building gamemode systems & backend integrations |
 | **Nov 2021 – Present** | **CEO & Java Developer – Ignited Studios (formerly 2DevsStudio)** | Plugins, graphics, backend systems for Minecraft & general software |
 | **Nov 2021 – Jan 2023** | **Lead Developer – Curiocraft.net** | Survival RPG server for YouTuber Baked/GamingCurios |
 | **Jan 2021 – Nov 2022** | **Spigot/Proxy Plugin Developer – StellarDEV** | Premade & custom plugins for large servers |
