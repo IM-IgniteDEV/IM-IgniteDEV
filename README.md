@@ -11,95 +11,95 @@
 ---
 
 ## 🤝 What I Offer
-- **Open to full-time positions, contract work, or large project collaborations**  
-- Specialized in **high-performance backend systems** for Minecraft servers  
-- Experienced in **leading development teams** and **delivering production-ready solutions**  
-- Quick contact:  
-  [![Hire Me](https://img.shields.io/badge/Email-ignitedevcontact%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ignitedevcontact@gmail.com)
+- **Open to full-time positions, contract work, and large project collaborations**  
+- Specialized in **high-performance backend systems** for Minecraft networks  
+- Experienced in **team leadership** and **end-to-end project delivery**  
+
+[![Hire Me](https://img.shields.io/badge/Email-ignitedevcontact%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ignitedevcontact@gmail.com)
 
 ---
 
 ## 👨‍💻 About Me  
-🔥 Passionate Minecraft plugin developer with **10+ years of programming** and **8+ years of server-side development**.  
-💡 Former owner of **2DevsStudio** (now **Ignited Studios**), delivering high-end solutions for Polish and international servers.  
-⚡ Backend systems expert, capable of handling **millions of concurrent players**.  
+🔥 Minecraft plugin developer with **10+ years of programming** and **8+ years of server-side development**  
+💡 Former owner of **2DevsStudio** (now **Ignited Studios**) delivering top-notch custom solutions  
+⚡ Expert in **scalable backend systems** handling thousands of concurrent players  
 
 ---
 
 ## 🧩 Skills at a Glance
-- **Backend Development:** Java, C#, Node.js, PHP, Redis, RabbitMQ  
-- **Databases:** MySQL, PostgreSQL, MongoDB  
-- **DevOps & Infrastructure:** Linux, Kubernetes, Git, Pterodactyl  
-- **Game Development:** Spigot, PaperMC, BungeeCord, Velocity, Unity, Unreal Engine  
-- **Web & API Development:** HTML, CSS, JS (ES6+), REST APIs  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,php,js,nodejs,html,css,mysql,postgresql,mongodb,redis,rabbitmq,linux,kubernetes,git,unity,unreal" />
+  <img src="https://img.shields.io/badge/Java-%23f89820.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spigot-ED8106?style=for-the-badge&logo=spigotmc&logoColor=white" />
+  <img src="https://img.shields.io/badge/PaperMC-white?style=for-the-badge&logo=java&logoColor=black" />
+  <img src="https://img.shields.io/badge/BungeeCord-blue?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Velocity-black?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 ---
 
 ## ❤️ Passion Reignited
-After a short break due to burnout (I started coding at **13 years old**!), I'm back — stronger, sharper, and more creative. The name **IgniteDEV** reflects my reignited passion for crafting code that powers unforgettable Minecraft experiences.
+Started coding at **13 years old**, took a break due to burnout — now fully **reignited** with more experience and vision than ever. The name **IgniteDEV** reflects my commitment to creating code that powers unforgettable Minecraft experiences.
 
 ---
 
 ## 🚀 Current Projects
-- **HobbitMC** – Lead Developer *(custom Hobbit-themed backend, plugin fixes)* · **Tech:** Java · PaperMC · MySQL · MongoDB · Redis  
-- **LegionMC** – Lead Developer *(building a new-generation Factions server)* · **Tech:** Java · PaperMC · MongoDB · Velocity · Redis  
-- **LeoneMC** – Developer *(creating gamemode systems and backend integrations)* · **Tech:** Java · Spigot · PaperMC  
-- **OneShotCannoning** – Lead Developer *(rewriting and optimizing cannoning systems)* · **Tech:** Java · Sakura-PaperFork  
+- **HobbitMC** – Lead Developer *(Hobbit-themed backend systems)*  
+- **LegionMC** – Lead Developer *(new-generation Factions server)*  
+- **LeoneMC** – Developer *(gamemode systems & backend)*  
+- **OneShotCannoning** – Lead Developer *(cannoning systems rewrite)*  
 
 ---
 
-## 🏆 Past Projects
-- **StellarDEV** – Premade & custom plugin developer · **Tech:** Java · Spigot · PaperMC · MySQL · Redis · MongoDB  
-- **Vertmix** – Long-term contract for high-profile clients · **Tech:** Java · Velocity · BungeeCord · Spigot · PaperMC · MySQL · Redis · MongoDB  
+## 🏆 Past Projects (Highlights)
+- **JasMC.PL** – Lead Developer *(MiniGames network with YouTuber JDabrowsky)*  
+- **AnubisMC.com** – Plugin Developer *(multi-gamemode optimization)*  
+- **Suecoblock** – Custom server for **Suecothechild** *(full backend)*  
+- **Curiocraft.net** – Lead Developer *(RPG Survival for YouTuber Baked)*  
+- **FireStreak** – Developer *(Speedrun systems)*  
 
-### 🌟 Notable Projects
-- **JasMC.PL** – Polish MiniGames server (Lead Developer) · Java · PaperMC · BungeeCord · Redis · MySQL  
-- **FajnyCraft.PL** – SkyBlock server with unique gameplay features · Java · Spigot · BungeeCord · MySQL · Redis  
-- **AnubisMC.com** – Multi-gamemode server offering diverse Minecraft experiences · Java · PaperMC · MySQL · Redis · MongoDB  
-- **Suecoblock** – Custom survival server created for artist suecothechild · Java · PaperMC · BungeeCord · MySQL · Redis · MongoDB  
-- **Curiocraft.net** – Survival with RPG elements tailored for YouTuber Baked/GamingCurios · Java · PaperMC · MySQL · BungeeCord · Redis · MongoDB  
-- **FireStreak** – Multiplayer Speedrun server · Java · Spigot · PaperMC · BungeeCord · MySQL · Redis · MongoDB  
+*(Full timeline available below)*
 
 ---
 
 ## 📜 Activity Timeline
 
-| Dates | Role & Project | Highlights & Tech |
-|-------|----------------|--------------------|
-| **2025 – Present** | **Developer – HobbitMC** | Custom Hobbit-themed systems, plugin fixes · Java · PaperMC · MySQL · MongoDB · Redis |
-| **2025 – Present** | **Lead Developer – OneShotCannoning** | Rewriting and optimizing systems · Java · Sakura-PaperFork |
-| **2025 – Present** | **Lead Developer – LegionMC** | Building Factions server backend · Java · PaperMC · MongoDB · Velocity · Redis |
-| **2025 – Present** | **Developer – LeoneMC** | Gamemode systems & backend integrations · Java · Spigot · PaperMC |
-| **Nov 2021 – Present** | **CEO & Java Developer – Ignited Studios (formerly 2DevsStudio)** | Plugins, backend systems, software solutions · Java · Velocity · BungeeCord · Spigot · PaperMC · MySQL · Redis · MongoDB |
-| **Nov 2021 – Jan 2023** | **Lead Developer – Curiocraft.net** | Survival RPG server for YouTuber Baked · Java · PaperMC · MySQL · BungeeCord · Redis · MongoDB |
-| **Jan 2021 – Nov 2022** | **Plugin Developer – StellarDEV** | Premade & custom plugins · Java · Spigot · PaperMC · MySQL · Redis · MongoDB |
-| **Jan – May 2021** | **Developer – FireStreak** | Multiplayer Speedrun systems · Java · Spigot · PaperMC · BungeeCord · MySQL · Redis · MongoDB |
-| **Feb 2020 – May 2021** | **Plugin Developer – AnubisMC.com** | Multi-gamemode backend optimization · Java · PaperMC · MySQL · Redis · MongoDB |
-| **Oct 2020 – Nov 2021** | **Plugin Developer – SuecoBlock** | Server for Artist SuecoTheChild · Java · PaperMC · BungeeCord · MySQL · Redis · MongoDB |
-| **Feb – Nov 2020** | **Plugin Developer – Vertmix** | Custom plugins for high-profile clients · Java · Velocity · BungeeCord · Spigot · PaperMC · MySQL · Redis · MongoDB |
-| **Apr 2018 – Mar 2019** | **Lead Developer – JasMC.PL** | Big network with Polish YouTuber JDabrowsky · Java · PaperMC · BungeeCord · Redis · MySQL |
-| **Dec 2017 – Oct 2018** | **Developer – FajnyCraft.PL** | Custom SkyBlock features · Java · Spigot · BungeeCord · MySQL · Redis |
+| Dates | Role & Project | Tech |
+|-------|---------------|------|
+| **2025 – Present** | HobbitMC (Developer) | Java · PaperMC · MySQL · MongoDB · Redis |
+| **2025 – Present** | OneShotCannoning (Lead Dev) | Java · Sakura-PaperFork |
+| **2025 – Present** | LegionMC (Lead Dev) | Java · PaperMC · MongoDB · Velocity · Redis |
+| **2025 – Present** | LeoneMC (Developer) | Java · Spigot · PaperMC |
+| **2021 – Present** | Ignited Studios (CEO) | Java · Velocity · Spigot · PaperMC · MySQL · Redis · MongoDB |
+| **2021 – 2023** | Curiocraft.net (Lead Dev) | Java · PaperMC · MySQL · Redis · MongoDB |
+| **2021 – 2022** | StellarDEV (Plugin Dev) | Java · Spigot · PaperMC · MySQL · Redis · MongoDB |
+| **2020 – 2021** | AnubisMC.com (Plugin Dev) | Java · PaperMC · MySQL · Redis · MongoDB |
+| **2020 – 2021** | Suecoblock (Plugin Dev) | Java · PaperMC · BungeeCord · MySQL · Redis · MongoDB |
+| **2018 – 2019** | JasMC.PL (Lead Dev) | Java · PaperMC · BungeeCord · MySQL · Redis |
 
 ---
 
-## 💬 Testimonials
-> 🏆 **"Excellent developer, quick and helpful. Misunderstandings due to my bad English, but he made up for it by completing the work excellently."** – **Monsterhit2**  
----  
-> 💡 **"Huge vouch for this guy – friendly, professional, always meets expectations."** – **kawaii**  
----  
-> ⚡ **"Fast, cheap, reliable."** – **CDFN**  
----  
-> 🔥 **"Great worker, extremely motivated, grinds hard every day."** – **Gokor**  
----  
-> 🚀 **"He works quickly and produces high quality work!"** – **Iyaku**  
----  
-> 🏛 **"Helped me develop a massive prison core with loads of features. I highly vouch for him. I’ve been through many devs before, but now I stick with him."** – **keys9**  
----  
-> 🤝 **"Good and friendly developer."** – **Delusios**  
+## 💬 Quick Testimonials
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Excellent%20dev-fast%20%26%20reliable-brightgreen?style=flat" />
+  <img src="https://img.shields.io/badge/Huge%20vouch-friendly%20%26%20professional-blue?style=flat" />
+  <img src="https://img.shields.io/badge/Grinds%20hard-very%20motivated-orange?style=flat" />
+  <img src="https://img.shields.io/badge/High%20quality-fast%20delivery-yellow?style=flat" />
+</p>
 
 ---
 
