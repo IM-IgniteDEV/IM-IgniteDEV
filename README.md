@@ -73,11 +73,13 @@ After a short break due to burnout (I started coding at **13 years old**!), I'm 
 ---
 
 ## 💬 Testimonials
-> 🏆 **"Excellent development team, quick and helpful. Misunderstandings due to my bad English, but they made up for it by completing the work excellently."** – *Monsterhit2*  
-> 💡 **"Huge vouch for this guy – friendly, professional, always meets expectations."** – *kawaii*  
-> ⚡ **"Fast, cheap, reliable."** – *CDFN*  
-> 🔥 **"Great worker, extremely motivated, grinds hard every day."** – *Gokor*  
-> 🚀 **"They work quickly and produce high quality work!"** – *Iyaku*
+🏆 "Excellent developer, quick and helpful. Misunderstandings due to my bad English, but he made up for it by completing the work excellently." – Monsterhit2
+💡 "Huge vouch for this guy – friendly, professional, always meets expectations." – kawaii
+⚡ "Fast, cheap, reliable." – CDFN
+🔥 "Great worker, extremely motivated, grinds hard every day." – Gokor
+🚀 "He works quickly and produces high quality work!" – Iyaku
+\\🏛 "Helped me develop a massive prison core with loads of features. I highly vouch for him. I’ve been through many devs before, but now I stick with him." – keys9
+🤝 "Good and friendly developer." – Delusios
 
 ---
 
