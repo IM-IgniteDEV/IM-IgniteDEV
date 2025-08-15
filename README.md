@@ -63,18 +63,20 @@
 
 ## 🏆 Past Projects Timeline
 
-| Years         | Project / Role                       | Description                                                        | Tech Stack                                         |
-|---------------|--------------------------------------|--------------------------------------------------------------------|---------------------------------------------------|
-| 2025 - Present | **HobbitMC** - Developer             | Custom Hobbit-themed systems, backend optimization                 | Java · PaperMC · MySQL · MongoDB · Redis           |
-| 2025 - Present | **OneShotCannoning** - Lead Dev       | Cannoning systems plugins                                          | Java · Sakura-PaperFork                            |
-| 2025 - Present | **LegionMC** - Lead Dev               | Factions core, scalable backend, DB integration                    | Java · PaperMC · MongoDB · Velocity · Redis        |
-| 2025 - Present | **LeoneMC** - Developer               | New mechanics, plugin maintenance                                  | Java · Spigot · PaperMC                             |
-| 2021 - Present | **Ignited Studios** - CEO             | Studio delivering plugins & full network setups                     | Java · Velocity · Spigot · PaperMC · MySQL · Redis |
-| 2021 - 2023   | **Curiocraft.net** - Lead Dev          | RPG Survival backend for YouTuber Baked                             | Java · PaperMC · MySQL · Redis · MongoDB           |
-| 2021 - 2022   | **StellarDEV** - Plugin Dev            | Client projects for Minecraft networks                              | Java · Spigot · PaperMC · MySQL · Redis · MongoDB  |
-| 2020 - 2021   | **AnubisMC.com** - Plugin Dev          | Optimized gamemode plugins & backend                                | Java · PaperMC · MySQL · Redis · MongoDB           |
-| 2020 - 2021   | **Suecoblock** - Plugin Dev            | Custom gamemode server for Suecothechild                             | Java · PaperMC · BungeeCord · MySQL · Redis · MongoDB |
-| 2018 - 2019   | **JasMC.PL** - Lead Dev                | MiniGames network for YouTuber JDabrowsky                            | Java · PaperMC · BungeeCord · MySQL · Redis         |
+| Period                     | Project / Role                                   | Description                                                      | Tech Stack                                         |
+|----------------------------|-------------------------------------------------|------------------------------------------------------------------|---------------------------------------------------|
+| **2025 – Present**         | Lead Developer – HobbitMC                       | Custom Hobbit-themed systems, backend optimization               | Java · PaperMC · MySQL · MongoDB · Redis          |
+| **2025 – Present**         | Lead Developer – OneShotCannoning              | Cannoning systems plugins                                         | Java · Sakura-PaperFork                           |
+| **2025 – Present**         | Lead Developer – LegionMC                       | Factions core, scalable backend, DB integration                  | Java · PaperMC · MongoDB · Velocity · Redis      |
+| **2025 – Present**         | Developer – LeoneMC                             | New mechanics, plugin maintenance                                 | Java · Spigot · PaperMC                           |
+| **Nov 2021 – Present**     | CEO & Java Developer – Ignited Studios (formerly 2DevsStudio) | Studio delivering plugins & full network setups | Java · Velocity · Spigot · PaperMC · MySQL · Redis |
+| **Nov 2021 – Jan 2023**    | Lead Developer – Curiocraft.net                 | RPG Survival backend for YouTuber Baked                           | Java · PaperMC · MySQL · Redis · MongoDB         |
+| **Jan 2021 – Nov 2022**    | Spigot/Proxy Plugin Developer – StellarDEV      | Client projects for Minecraft networks                             | Java · Spigot · PaperMC · MySQL · Redis · MongoDB |
+| **Jan 30 2021 – May 2021** | Developer – FireStreak                           | Multiplayer Speedrun systems, custom game logic                  | Java · PaperMC                                    |
+| **Feb 2020 – May 2021**    | Spigot Plugin Developer – AnubisMC.com          | Optimized gamemode plugins & backend                               | Java · PaperMC · MySQL · Redis · MongoDB         |
+| **Feb 2020 – Nov 2020**    | Plugin Developer – Vertmix Development Team     | Long-term custom orders for high-profile clients                 | Java · PaperMC                                    |
+| **Apr 2018 – Mar 2019**    | Lead Developer – JasMC.PL                        | MiniGames network for YouTuber JDabrowsky                         | Java · PaperMC · BungeeCord · MySQL · Redis      |
+| **Dec 2017 – Oct 2018**    | Developer – FajnyCraft.PL                        | Custom SkyBlock features and unique gameplay mechanics           | Java · PaperMC                                    |
 
 ---
 
