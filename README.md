@@ -33,6 +33,7 @@ After a short break due to burnout (I started coding at **13 years old**!), I'm 
 - **HobbitMC** – Lead developer, fixing plugins & creating Hobbit-themed custom systems  
 - **LegionMC** – New vision for the Factions gamemode  
 - **LeoneMC** – Developer
+- **OneShotCannoning** -  Lead Developer of Cannoning Server, fixing and rewritting systems
 
 ---
 
