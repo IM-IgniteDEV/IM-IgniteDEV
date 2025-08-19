@@ -97,6 +97,76 @@ Started coding at **13 years old**, took a break due to burnout - now fully **re
 
 ---
 
+## 🚀 My Open-Source Plugins
+
+A selection of my public Minecraft plugins and libraries.  
+Each project is actively maintained and documented — ready to drop into your server.
+
+---
+
+### 🏴‍☠️ [Treasure Hunt](https://github.com/IM-IgniteDEV/TreasureHunt)
+![Spigot Downloads](https://img.shields.io/spigot/downloads/treasurehunt-1-0?label=Spigot%20downloads&color=gold)
+![Version](https://img.shields.io/spigot/resource-version/128153?label=Latest%20version&color=yellow)
+
+Turn your server into a world full of secrets.  
+Interactive treasure hunts with MySQL sync, admin GUI, teleportation and MiniMessage support.  
+[**→ Spigot Resource**](https://www.spigotmc.org/resources/treasurehunt-1-0.128153/)
+
+---
+
+### 📊 [BlazePolls](https://github.com/IM-IgniteDEV/BlazePolls)
+![Spigot Downloads](https://img.shields.io/spigot/downloads/blazepolls-1-0?label=Spigot%20downloads&color=orange)
+![Version](https://img.shields.io/spigot/resource-version/128149?label=Latest%20version&color=yellow)
+
+Create in-game polls with an interactive GUI, JSON persistence and MiniMessage customization.  
+[**→ Spigot Resource**](https://www.spigotmc.org/resources/blazepolls-1-0.128149/)
+
+---
+
+### ⚙️ [SimpleJSONConfig](https://github.com/IgnitedStudiosFire/SimpleJSONConfig)
+![Spigot Downloads](https://img.shields.io/spigot/downloads/simplejsonconfig?label=Spigot%20downloads&color=blue)
+![Version](https://img.shields.io/spigot/resource-version/88844?label=Latest%20version&color=yellow)
+
+Lightweight configuration and data store library supporting JSON and YAML with automatic upgrade and cache support.  
+[**→ Spigot Resource**](https://www.spigotmc.org/resources/simplejsonconfig-smart-json-yaml-configs-data-stores-for-bukkit-spigot-paper.88844/)
+
+---
+
+### 🛡 [2Devs-EquipmentEffects](https://github.com/2DevsStudio/2Devs-EquipmentEffects)
+![Spigot Downloads](https://img.shields.io/spigot/downloads/2devs-equipmenteffects?label=Spigot%20downloads&color=green)
+![Version](https://img.shields.io/spigot/resource-version/90599?label=Latest%20version&color=yellow)
+
+Give equipment and held items powerful effects — potions, particles, permissions or commands.  
+[**→ Spigot Resource**](https://www.spigotmc.org/resources/2devs-equipmenteffects-equipment-effects-on-your-server-1-8-1-19.90599/)
+
+---
+
+### ✨ [Aparecium](https://github.com/IgnitedStudiosFire/Aparecium)
+Reveal hidden players using particle effects and visual indicators.  
+*(Spigot release coming soon)*
+
+---
+
+### 🎣 [IgniteFishingEvents](https://github.com/IM-IgniteDEV/IgniteFishingEvents)
+Custom events for fishing — add special catches and unique integrations.
+
+---
+
+### 🔥 [IgniteStreakRewards](https://github.com/IM-IgniteDEV/IgniteStreakRewards)
+Reward system that grants perks and bonuses based on player streaks.
+
+---
+
+### 📈 [IgniteLeveling](https://github.com/IM-IgniteDEV/IgniteLeveling)
+Flexible leveling framework with customizable XP, progression and stat boosts.
+
+---
+
+### 🎒 [IgniteBackpack](https://github.com/IM-IgniteDEV/IgniteBackpack)
+Customizable backpack inventory plugin with per-player storage and persistence.
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=im-ignitedev&show_icons=true&theme=radical" height="150" />
