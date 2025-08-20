@@ -141,14 +141,8 @@ Give equipment and held items powerful effects — potions, particles, permissio
 
 ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 
-### [✨ Aparecium](https://github.com/IgnitedStudiosFire/Aparecium)  
-Reveal hidden players using particle effects and visual indicators.  
-*(Spigot release coming soon)*
-
-▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
-
 ### [🎣 IgniteFishingEvents](https://github.com/IM-IgniteDEV/IgniteFishingEvents)  
-Custom events for fishing — add special catches and unique integrations.
+Custom events for fishing — add special events and unique integrations.
 
 ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 
@@ -163,7 +157,7 @@ Flexible leveling framework with customizable XP, progression and stat boosts.
 ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 
 ### [🎒 IgniteBackpack](https://github.com/IM-IgniteDEV/IgniteBackpack)  
-Customizable backpack inventory plugin with per-player storage and persistence.
+Customizable backpack inventory plugin for 3d models render
 
 ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 ---
