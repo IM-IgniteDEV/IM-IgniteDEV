@@ -278,9 +278,15 @@ Give armor and items powerful effects. Potions, particles, permissions, or comma
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IM-IgniteDEV&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=F7931E&text_color=c9d1d9&cache_seconds=21600" height="160" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IM-IgniteDEV&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9&cache_seconds=21600" height="160" />
+<img src="https://streak-stats.demolab.com/?user=IM-IgniteDEV&theme=github-dark-blue&hide_border=true&background=0d1117&ring=FF6B35&fire=FFD700&currStreakLabel=F7931E&sideLabels=F7931E" height="160" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=IM-IgniteDEV&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15" width="80%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IM-IgniteDEV&theme=github-dark&hide_border=true&bg_color=0d1117&color=FF6B35&line=F7931E&point=FFD700" width="95%" />
 
 </div>
 
