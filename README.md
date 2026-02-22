@@ -146,7 +146,7 @@ I don't just write code. I plan, architect, build, test, and deliver. You get a 
 
 > *"Ignite and I have been through a lot together. We started small, and just one week later he delivered one of the biggest projects I've ever worked on. If you're lucky enough to find him, use him. Seriously, no joke, he's one of the best on the market. I'd love to gatekeep him, but unfortunately I don't have enough money 😄"*
 >
-> **Anonymous Client**
+> **Petsen**
 
 > *"I've been through many devs before, but now I stick with him. Helped me develop a massive prison core with loads of features."*
 >
