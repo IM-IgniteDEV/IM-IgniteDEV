@@ -31,11 +31,11 @@
 
 ## The Story
 
-I wrote my first line of code at **13 years old**. By 15, I was shipping production Minecraft plugins. After years of relentless building I hit burnout — stepped away, reflected, and came back stronger.
+I wrote my first line of code at **13 years old**. By 15, I was shipping production Minecraft plugins. After years of relentless building I hit burnout - stepped away, reflected, and came back stronger.
 
 **IgniteDEV** isn't just a username. It's a promise: *reignited passion, battle-tested expertise, and code that performs under pressure.*
 
-Today, I lead **Ignited Studios** (formerly 2DevsStudio), delivering custom backend systems that power some of the most demanding Minecraft networks out there. When server owners need infrastructure that **doesn't break at 2,000 concurrent players** — they call me.
+Today, I lead **Ignited Studios** (formerly 2DevsStudio), delivering custom backend systems that power some of the most demanding Minecraft networks out there. When server owners need infrastructure that **doesn't break at 2,000 concurrent players** - they call me.
 
 <br/>
 
@@ -53,13 +53,13 @@ Today, I lead **Ignited Studios** (formerly 2DevsStudio), delivering custom back
 Custom cores, scalable systems, and rock-solid infrastructure built to handle anything your player base throws at it.
 
 ### ⚡ Performance Obsession
-Every tick counts. I profile, optimize, and stress-test until your server runs like clockwork — even at peak load.
+Every tick counts. I profile, optimize, and stress-test until your server runs like clockwork - even at peak load.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔌 Plugin Engineering
-From complex Factions cores to unique minigame systems — fully custom, fully yours, no off-the-shelf compromises.
+From complex Factions cores to unique minigame systems - fully custom, fully yours, no off-the-shelf compromises.
 
 ### 🤝 End-to-End Delivery
 I don't just write code. I plan, architect, build, test, and deliver. You get a partner, not just a developer.
@@ -118,18 +118,18 @@ I don't just write code. I plan, architect, build, test, and deliver. You get a 
 
 | Year | Project | My Role | What I Built |
 |:----:|---------|---------|-------------|
-| **2025 →** | **LegionMC** | Lead Developer | Next-gen Factions core, scalable backend, full DB layer — *Java · PaperMC · MongoDB · Velocity · Redis* |
-| **2025 →** | **OneShotCannoning** | Lead Developer | Custom cannoning mechanics engine — *Java · Sakura-PaperFork* |
-| **2025** | **LeoneMC** | Developer | New gameplay mechanics, plugin maintenance — *Java · Spigot · PaperMC* |
-| **2025** | **HobbitMC** | Lead Developer | Themed systems, backend optimization — *Java · PaperMC · MySQL · MongoDB · Redis* |
-| **2021 → now** | **Ignited Studios** | CEO & Lead Dev | Full-service studio: plugins, network setups, consulting — *Full stack* |
-| **2021 – 2023** | **Curiocraft.net** | Lead Developer | RPG Survival backend for YouTuber **Baked** — *Java · PaperMC · MySQL · Redis · MongoDB* |
-| **2021 – 2022** | **StellarDEV** | Plugin Developer | Client projects across multiple networks — *Java · Spigot · PaperMC* |
-| **2021** | **FireStreak** | Developer | Multiplayer Speedrun systems — *Java · PaperMC* |
-| **2020 – 2021** | **AnubisMC** | Plugin Developer | Optimized gamemodes & backend — *Java · PaperMC · MySQL · Redis · MongoDB* |
-| **2020** | **Vertmix Dev Team** | Plugin Developer | Long-term custom orders for high-profile clients — *Java · PaperMC* |
-| **2018 – 2019** | **JasMC.PL** | Lead Developer | MiniGames network for YouTuber **JDabrowsky** — *Java · PaperMC · BungeeCord · MySQL · Redis* |
-| **2017 – 2018** | **FajnyCraft.PL** | Developer | Custom SkyBlock features & unique gameplay — *Java · PaperMC* |
+| **2025 →** | **LegionMC** | Lead Developer | Next-gen Factions core, scalable backend, full DB layer - *Java · PaperMC · MongoDB · Velocity · Redis* |
+| **2025 →** | **OneShotCannoning** | Lead Developer | Custom cannoning mechanics engine - *Java · Sakura-PaperFork* |
+| **2025** | **LeoneMC** | Developer | New gameplay mechanics, plugin maintenance - *Java · Spigot · PaperMC* |
+| **2025** | **HobbitMC** | Lead Developer | Themed systems, backend optimization - *Java · PaperMC · MySQL · MongoDB · Redis* |
+| **2021 → now** | **Ignited Studios** | CEO & Lead Dev | Full-service studio: plugins, network setups, consulting - *Full stack* |
+| **2021 – 2023** | **Curiocraft.net** | Lead Developer | RPG Survival backend for YouTuber **Baked** - *Java · PaperMC · MySQL · Redis · MongoDB* |
+| **2021 – 2022** | **StellarDEV** | Plugin Developer | Client projects across multiple networks - *Java · Spigot · PaperMC* |
+| **2021** | **FireStreak** | Developer | Multiplayer Speedrun systems - *Java · PaperMC* |
+| **2020 – 2021** | **AnubisMC** | Plugin Developer | Optimized gamemodes & backend - *Java · PaperMC · MySQL · Redis · MongoDB* |
+| **2020** | **Vertmix Dev Team** | Plugin Developer | Long-term custom orders for high-profile clients - *Java · PaperMC* |
+| **2018 – 2019** | **JasMC.PL** | Lead Developer | MiniGames network for YouTuber **JDabrowsky** - *Java · PaperMC · BungeeCord · MySQL · Redis* |
+| **2017 – 2018** | **FajnyCraft.PL** | Developer | Custom SkyBlock features & unique gameplay - *Java · PaperMC* |
 
 <br/>
 
@@ -145,34 +145,34 @@ I don't just write code. I plan, architect, build, test, and deliver. You get a 
 
 > *"I've been through many devs before, but now I stick with him. Helped me develop a massive prison core with loads of features."*
 >
-> — **keys9**
+> - **keys9**
 
 > *"He works quickly and produces high quality work!"*
 >
-> — **Iyaku**
+> - **Iyaku**
 
-> *"Huge vouch — friendly, professional, always meets expectations."*
+> *"Huge vouch - friendly, professional, always meets expectations."*
 >
-> — **kawaii**
+> - **kawaii**
 
 </td>
 <td width="50%" valign="top">
 
 > *"Great worker, extremely motivated, grinds hard every day."*
 >
-> — **Gokor**
+> - **Gokor**
 
 > *"Fast, cheap, reliable."*
 >
-> — **CDFN**
+> - **CDFN**
 
 > *"Excellent developer, quick and helpful. Completed the work excellently."*
 >
-> — **Monsterhit2**
+> - **Monsterhit2**
 
 > *"Good and friendly developer."*
 >
-> — **Delusios**
+> - **Delusios**
 
 </td>
 </tr>
@@ -189,20 +189,20 @@ I don't just write code. I plan, architect, build, test, and deliver. You get a 
 *Free, maintained, and production-ready. Install and go.*
 
 <details>
-<summary><b>🏴‍☠️ Treasure Hunt</b> — Interactive treasure hunts with MySQL sync, admin GUI & MiniMessage support</summary>
+<summary><b>🏴‍☠️ Treasure Hunt</b> - Interactive treasure hunts with MySQL sync, admin GUI & MiniMessage support</summary>
 <br/>
 
 [![Downloads](https://img.shields.io/spiget/downloads/128153?label=Downloads&color=gold&style=flat-square)](https://www.spigotmc.org/resources/treasurehunt-1-0.128153/)
 [![Version](https://img.shields.io/spiget/version/128153?label=Latest&color=blue&style=flat-square)](https://www.spigotmc.org/resources/treasurehunt-1-0.128153/)
 
-Turn your server into a world full of secrets. Hidden treasures, teleportation, full GUI — everything synced across your network.
+Turn your server into a world full of secrets. Hidden treasures, teleportation, full GUI - everything synced across your network.
 
 [**GitHub**](https://github.com/IM-IgniteDEV/TreasureHunt) · [**Spigot**](https://www.spigotmc.org/resources/treasurehunt-1-0.128153/)
 
 </details>
 
 <details>
-<summary><b>📊 BlazePolls</b> — In-game polling system with GUI & JSON persistence</summary>
+<summary><b>📊 BlazePolls</b> - In-game polling system with GUI & JSON persistence</summary>
 <br/>
 
 [![Downloads](https://img.shields.io/spiget/downloads/128149?label=Downloads&color=gold&style=flat-square)](https://www.spigotmc.org/resources/blazepolls-1-0.128149/)
@@ -215,26 +215,26 @@ Create polls your players actually engage with. MiniMessage customization, inter
 </details>
 
 <details>
-<summary><b>⚙️ SimpleJSONConfig</b> — Lightweight config library for Bukkit/Spigot/Paper</summary>
+<summary><b>⚙️ SimpleJSONConfig</b> - Lightweight config library for Bukkit/Spigot/Paper</summary>
 <br/>
 
 [![Downloads](https://img.shields.io/spiget/downloads/88844?label=Downloads&color=gold&style=flat-square)](https://www.spigotmc.org/resources/simplejsonconfig-smart-json-yaml-configs-data-stores-for-bukkit-spigot-paper.88844/)
 [![Version](https://img.shields.io/spiget/version/88844?label=Latest&color=blue&style=flat-square)](https://www.spigotmc.org/resources/simplejsonconfig-smart-json-yaml-configs-data-stores-for-bukkit-spigot-paper.88844/)
 
-JSON & YAML configs with auto-upgrade, caching, and zero boilerplate. The config library I wished existed — so I built it.
+JSON & YAML configs with auto-upgrade, caching, and zero boilerplate. The config library I wished existed - so I built it.
 
 [**GitHub**](https://github.com/IgnitedStudiosFire/SimpleJSONConfig) · [**Spigot**](https://www.spigotmc.org/resources/simplejsonconfig-smart-json-yaml-configs-data-stores-for-bukkit-spigot-paper.88844/)
 
 </details>
 
 <details>
-<summary><b>🛡 2Devs-EquipmentEffects</b> — Potion effects, particles & permissions on equipment</summary>
+<summary><b>🛡 2Devs-EquipmentEffects</b> - Potion effects, particles & permissions on equipment</summary>
 <br/>
 
 [![Downloads](https://img.shields.io/spiget/downloads/90599?label=Downloads&color=gold&style=flat-square)](https://www.spigotmc.org/resources/2devs-equipmenteffects-equipment-effects-on-your-server-1-8-1-19.90599/)
 [![Version](https://img.shields.io/spiget/version/90599?label=Latest&color=blue&style=flat-square)](https://www.spigotmc.org/resources/2devs-equipmenteffects-equipment-effects-on-your-server-1-8-1-19.90599/)
 
-Give armor and items powerful effects — potions, particles, permissions, or command execution on equip.
+Give armor and items powerful effects - potions, particles, permissions, or command execution on equip.
 
 [**GitHub**](https://github.com/2DevsStudio/2Devs-EquipmentEffects) · [**Spigot**](https://www.spigotmc.org/resources/2devs-equipmenteffects-equipment-effects-on-your-server-1-8-1-19.90599/)
 
@@ -248,7 +248,7 @@ Give armor and items powerful effects — potions, particles, permissions, or co
 |--------|-------------|
 | [**IgniteFishingEvents**](https://github.com/IM-IgniteDEV/IgniteFishingEvents) | Custom fishing events with unique integrations |
 | [**IgniteStreakRewards**](https://github.com/IM-IgniteDEV/IgniteStreakRewards) | Streak-based reward system with perks & bonuses |
-| [**IgniteLeveling**](https://github.com/IM-IgniteDEV/IgniteLeveling) | Flexible leveling framework — XP, progression, stat boosts |
+| [**IgniteLeveling**](https://github.com/IM-IgniteDEV/IgniteLeveling) | Flexible leveling framework - XP, progression, stat boosts |
 | [**IgniteBackpack**](https://github.com/IM-IgniteDEV/IgniteBackpack) | Custom backpack inventories with 3D model rendering |
 
 </details>
@@ -281,7 +281,7 @@ Give armor and items powerful effects — potions, particles, permissions, or co
 
 ### Ready to build something great?
 
-Whether you need a **custom plugin**, a **full network backend**, or a **dedicated lead developer** — let's talk.
+Whether you need a **custom plugin**, a **full network backend**, or a **dedicated lead developer** - let's talk.
 
 <br/>
 
