@@ -278,9 +278,9 @@ Give armor and items powerful effects. Potions, particles, permissions, or comma
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IM-IgniteDEV&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=F7931E&text_color=c9d1d9" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=IM-IgniteDEV&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=F7931E&text_color=c9d1d9&cache_seconds=21600" height="160" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IM-IgniteDEV&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IM-IgniteDEV&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9&cache_seconds=21600" height="160" />
 
 </div>
 
