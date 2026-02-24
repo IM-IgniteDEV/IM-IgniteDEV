@@ -9,9 +9,9 @@
 
 <br/>
 
-### Crafting high-performance Minecraft systems since 2017
+### Crafting high-performance Minecraft systems since 2016
 
-**10+ years of programming** · **8+ years of Minecraft development** · **Thousands of concurrent players served**
+**12+ years of programming** · **~10 years of Minecraft development** · **Thousands of concurrent players served**
 
 <br/>
 
