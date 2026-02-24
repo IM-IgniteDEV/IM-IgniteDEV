@@ -31,7 +31,7 @@
 
 ## The Story
 
-I wrote my first line of code at **13 years old**. By 15, I was shipping production Minecraft plugins. After years of relentless building I hit burnout, stepped away, reflected, and came back stronger.
+I started interesting in programming when I was **11 years old**, that's when I wrote my first line of code. My first commerical project was when I was **13 years old**. By 15, I was shipping international production Minecraft plugins. After years of relentless building I hit burnout, stepped away, reflected, and came back stronger.
 
 **IgniteDEV** isn't just a username. It's a promise: *reignited passion, battle-tested expertise, and code that performs under pressure.*
 
