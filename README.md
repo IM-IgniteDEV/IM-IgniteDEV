@@ -118,6 +118,8 @@ I don't just write code. I plan, architect, build, test, and deliver. You get a 
 
 | Period | Project | My Role | What I Built |
 |:------:|---------|---------|-------------|
+| **2025 – Present** | **Fox Studios** | Developer | · *Java · PaperMC · MongoDB · Folia* |
+| **2025 – Present** | **[Blackthornaccessible](https://blackthornaccessible.com/)** | Lead Developer | Deliver secure, accessible, and compliant technology for federal agencies, state governments, and enterprise organizations. |
 | **2025 – Present** | **LegionMC** | Lead Developer | Next-gen Factions core, scalable backend, full DB layer · *Java · PaperMC · MongoDB · Velocity · Redis* |
 | **2025 – Present** | **OneShotCannoning** | Lead Developer | Custom cannoning mechanics engine · *Java · Sakura-PaperFork* |
 | **2025 – Present** | **LeoneMC** | Developer | New gameplay mechanics, plugin maintenance · *Java · Spigot · PaperMC* |
