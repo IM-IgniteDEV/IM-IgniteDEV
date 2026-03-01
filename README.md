@@ -118,11 +118,11 @@ I don't just write code. I plan, architect, build, test, and deliver. You get a 
 
 | Period | Project | My Role | What I Built |
 |:------:|---------|---------|-------------|
+| **2026 – Present** | **[Blackthornaccessible](https://blackthornaccessible.com/)** | Lead Developer | Deliver secure, accessible, and compliant technology for federal agencies, state governments, and enterprise organizations. |
 | **2025 – Present** | **Fox Studios** | Developer | · *Java · PaperMC · MongoDB · Folia* |
-| **2025 – Present** | **[Blackthornaccessible](https://blackthornaccessible.com/)** | Lead Developer | Deliver secure, accessible, and compliant technology for federal agencies, state governments, and enterprise organizations. |
-| **2025 – Present** | **LegionMC** | Lead Developer | Next-gen Factions core, scalable backend, full DB layer · *Java · PaperMC · MongoDB · Velocity · Redis* |
 | **2025 – Present** | **OneShotCannoning** | Lead Developer | Custom cannoning mechanics engine · *Java · Sakura-PaperFork* |
 | **2025 – Present** | **LeoneMC** | Developer | New gameplay mechanics, plugin maintenance · *Java · Spigot · PaperMC* |
+| **2025 – 2026** | **LegionMC** | Lead Developer | Next-gen Factions core, scalable backend, full DB layer · *Java · PaperMC · MongoDB · Velocity · Redis* |
 | **2025 – June 2025** | **HobbitMC** | Lead Developer | Themed systems, backend optimization · *Java · PaperMC · MySQL · MongoDB · Redis* |
 | **Nov 2021 – Present** | **Ignited Studios** | CEO & Lead Dev | Full-service studio: plugins, network setups, consulting · *Full stack* |
 | **Nov 2021 – Jan 2023** | **Curiocraft.net** | Lead Developer | RPG Survival backend for YouTuber **Baked** · *Java · PaperMC · MySQL · Redis · MongoDB* |
