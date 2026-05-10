@@ -202,8 +202,8 @@ I don't just write code. I plan, architect, build, test, and deliver. You get a 
 ## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=IM-IgniteDEV&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=FF8C42"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IM-IgniteDEV&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF6B35"/>
+<img src="https://streak-stats.demolab.com/?user=IM-IgniteDEV&theme=github-dark-blue&hide_border=true&background=0d1117&ring=FF6B35&fire=FFD700&currStreakLabel=F7931E&sideLabels=F7931E" height="160" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IM-IgniteDEV&theme=github-dark&hide_border=true&bg_color=0d1117&color=FF6B35&line=F7931E&point=FFD700" width="95%" />
 </div>
 
 ---
