@@ -123,7 +123,7 @@ I don't just write code. I plan, architect, build, test, and deliver. You get a 
 | Plugin | Description | Platform |
 |--------|-------------|----------|
 | [**IgniteZombies** - CoD Zombies Experience](https://builtbybit.com/resources/ignitezombies-cod-zombies-experience.107073/) | Fully configurable zombie survival plugin with waves, arenas, rewards, and progression. Ready-to-use setup included. | BBB |
-| [**IgnitePaste** - Live Schematic Preview](https://builtbybit.com/resources/ignitepaste-live-schematic-preview.105938/) | Modern schematic paste mode with glowing outlines, block-accurate ghost previews, hotbar tools, and undo. | BBB |
+| [**IgnitePaste** - Live Schematic Preview](https://builtbybit.com/resources/ignitepaste-live-schematic-preview.105938/) | Modern schematic paste mode with glowing outlines, block-accurate ghost previews, hotbar tools, and undo. ⭐⭐⭐⭐⭐ | BBB |
 | [**Claim Blocks** - Claims Plugin](https://builtbybit.com/resources/claim-blocks-claims-plugin.91591/) | Full-featured land claiming for Hytale with trusted players & progressive upgrading. ⭐⭐⭐⭐⭐ | BBB |
 
 ### 🆓 Free & Open-Source - Available on SpigotMC & GitHub
