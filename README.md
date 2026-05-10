@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35,FF8C42&height=200&section=header&text=Mateusz%20Jasiński&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IgniteDEV%20·%20Minecraft%20Backend%20Architect&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7931E,100:FFD700&height=220&section=header&text=Mateusz%20Jasiński&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=IgniteDEV%20%C2%B7%20Minecraft%20Backend%20Architect&descSize=18&descAlignY=55&descAlign=50&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
@@ -224,5 +224,5 @@ Whether you need a custom plugin, a full network backend, or a dedicated lead de
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35,FF8C42&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7931E,100:FFD700&height=100&section=footer" width="100%" />
 </div>
