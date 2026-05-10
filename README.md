@@ -1,78 +1,59 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35,FF8C42&height=200&section=header&text=Mateusz%20Jasiński&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IgniteDEV%20·%20Minecraft%20Backend%20Architect&descAlignY=58&descAlign=50" width="100%"/>
+</div>
 
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      HERO SECTION                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+**Crafting high-performance Minecraft systems since 2016**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7931E,100:FFD700&height=220&section=header&text=Mateusz%20Jasiński&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=IgniteDEV%20%C2%B7%20Minecraft%20Backend%20Architect&descSize=18&descAlignY=55&descAlign=50&animation=fadeIn" width="100%" />
+`12+ years of programming` · `~10 years of Minecraft development` · `Thousands of concurrent players served`
 
-<br/>
-
-### Crafting high-performance Minecraft systems since 2016
-
-**12+ years of programming** · **~10 years of Minecraft development** · **Thousands of concurrent players served**
-
-<br/>
-
-[![Email](https://img.shields.io/badge/Let's_Talk-ignitedevcontact@gmail.com-FF6B35?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ignitedevcontact@gmail.com)
-&nbsp;&nbsp;
-[![Discord](https://img.shields.io/badge/Discord-IgniteDEV%231465-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/)
-&nbsp;&nbsp;
-[![SpigotMC](https://img.shields.io/badge/SpigotMC-Portfolio-ED8106?style=for-the-badge&logo=spigotmc&logoColor=white)](https://www.spigotmc.org/members/2devsstudio.596329/)
+[![Email](https://img.shields.io/badge/📧_LET'S_TALK-ignitedevcontact@gmail.com-EA4335?style=for-the-badge)](mailto:ignitedevcontact@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-IgniteDEV%231465-5865F2?style=for-the-badge&logo=discord)](https://discord.com)
+[![SpigotMC](https://img.shields.io/badge/SpigotMC-IgnitedStudios-ED8106?style=for-the-badge)](https://www.spigotmc.org/members/ignitedstudios.596329/)
+[![BuiltByBit](https://img.shields.io/badge/BuiltByBit-Ignited_Studios-00BFFF?style=for-the-badge)](https://builtbybit.com/members/ignited-studios.289748/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B35?style=for-the-badge)](https://github.com/IM-IgniteDEV)
 
 </div>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     ABOUT SECTION                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+---
 
 ## The Story
 
-I started interesting in programming when I was **11 years old**, that's when I wrote my first line of code. My first commerical project was when I was **13 years old**. By 15, I was shipping international production Minecraft plugins. After years of relentless building I hit burnout, stepped away, reflected, and came back stronger.
+I got interested in programming when I was 11 years old - that's when I wrote my first line of code. My first commercial project came when I was 13. By 15, I was shipping production Minecraft plugins for international clients. After years of relentless building, I hit burnout, stepped away, reflected, and came back stronger.
 
-**IgniteDEV** isn't just a username. It's a promise: *reignited passion, battle-tested expertise, and code that performs under pressure.*
+IgniteDEV isn't just a username. It's a promise: *reignited passion, battle-tested expertise, and code that performs under pressure.*
 
 Today, I lead **Ignited Studios** (formerly 2DevsStudio), delivering custom backend systems that power some of the most demanding Minecraft networks out there. When server owners need infrastructure that **doesn't break at 2,000 concurrent players**, they call me.
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   WHAT I DELIVER                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+---
 
 ## What You Get When You Work With Me
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🏗️ Backend Architecture
+**🏗️ Backend Architecture**
 Custom cores, scalable systems, and rock-solid infrastructure built to handle anything your player base throws at it.
 
-### ⚡ Performance Obsession
+**⚡ Performance Obsession**
 Every tick counts. I profile, optimize, and stress-test until your server runs like clockwork, even at peak load.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🔌 Plugin Engineering
-From complex Factions cores to unique minigame systems. Fully custom, fully yours, no off-the-shelf compromises.
+**🔌 Plugin Engineering**
+From complex Factions cores to unique minigame systems. Fully custom, fully yours - no off-the-shelf compromises.
 
-### 🤝 End-to-End Delivery
+**🤝 End-to-End Delivery**
 I don't just write code. I plan, architect, build, test, and deliver. You get a partner, not just a developer.
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    TECH STACK                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+---
 
 ## Tech Stack
 
@@ -81,11 +62,11 @@ I don't just write code. I plan, architect, build, test, and deliver. You get a 
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
@@ -93,256 +74,155 @@ I don't just write code. I plan, architect, build, test, and deliver. You get a 
 
 **Minecraft Ecosystem**
 
-![PaperMC](https://img.shields.io/badge/PaperMC-111111?style=flat-square&logo=java&logoColor=white)
-![Spigot](https://img.shields.io/badge/Spigot-ED8106?style=flat-square&logo=spigotmc&logoColor=white)
-![Velocity](https://img.shields.io/badge/Velocity-1B1F23?style=flat-square&logo=java&logoColor=white)
-![BungeeCord](https://img.shields.io/badge/BungeeCord-2B65EC?style=flat-square&logo=java&logoColor=white)
+![PaperMC](https://img.shields.io/badge/PaperMC-00A9FF?style=flat-square)
+![Spigot](https://img.shields.io/badge/Spigot-ED8106?style=flat-square)
+![BungeeCord](https://img.shields.io/badge/BungeeCord-5865F2?style=flat-square)
+![Velocity](https://img.shields.io/badge/Velocity-1DB954?style=flat-square)
+![Folia](https://img.shields.io/badge/Folia-FF6B35?style=flat-square)
+![Hytale](https://img.shields.io/badge/Hytale-00C9A7?style=flat-square)
 
 **Data & Infrastructure**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-
-**Game Engines**
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Unreal](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
-
-**DevOps & Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-
-**Cloud & Hosting**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Pterodactyl](https://img.shields.io/badge/Pterodactyl-0E4688?style=flat-square&logo=pterodactyl&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 </div>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  TRACK RECORD                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+---
 
 ## Track Record
 
-> *10+ years of experience. Here's just a glimpse of the projects I've been part of. The full list is much longer.*
+10+ years of experience. Here's just a glimpse of the projects I've been part of. The full list is much longer.
 
 | Period | Project | My Role | What I Built |
-|:------:|---------|---------|-------------|
-| **2026 – Present** | **[Blackthornaccessible](https://blackthornaccessible.com/)** | **Lead Developer** | Deliver secure, accessible, and compliant technology for federal agencies, state governments, and enterprise organizations. |
-| **2025 – Present** | **Fox Studios** | Developer | · *Java · PaperMC · MongoDB · Folia* |
-| **2025 – Present** | **OneShotCannoning** | **Lead Developer** | Custom cannoning mechanics engine · *Java · Sakura-PaperFork* |
-| **2025 – Present** | **LeoneMC** | Developer | New gameplay mechanics, plugin maintenance · *Java · Spigot · PaperMC* |
-| **2026 - Present** | **LegionHytale** | **Lead Developer** | Creating Survival Hytale Server · *Java · Hytale* |
-| **2025 – 2026** | **LegionMC** | **Lead Developer** | Next-gen Factions core, scalable backend, full DB layer · *Java · PaperMC · MongoDB · Velocity · Redis* |
-| **2025 – June 2025** | **HobbitMC** | **Lead Developer** | Themed systems, backend optimization · *Java · PaperMC · MySQL · MongoDB · Redis* |
-| **Nov 2021 – Present** | **Ignited Studios** | **CEO & Lead Dev** | Full-service studio: plugins, network setups, consulting · *Full stack* |
-| **Nov 2021 – Jan 2023** | **Curiocraft.net** | **Lead Developer** | RPG Survival backend for YouTuber **Baked** · *Java · PaperMC · MySQL · Redis · MongoDB* |
-| **Jan 2021 – Nov 2022** | **StellarDEV** | Plugin Developer | Client projects across multiple networks · *Java · Spigot · PaperMC · MySQL · Redis · MongoDB* |
-| **Jan 30 2021 – May 2021** | **FireStreak** | Developer | Multiplayer Speedrun systems · *Java · PaperMC* |
-| **Feb 2020 – May 2021** | **AnubisMC** | Plugin Developer | Optimized gamemodes & backend · *Java · PaperMC · MySQL · Redis · MongoDB* |
-| **Dec 2020 – Dec 2020** | **Large-Scale Server** | Plugin Developer | Server prepared for large-scale launch · *Java · PaperMC · MySQL · Redis · MongoDB* |
-| **Feb 2020 – Nov 2020** | **Vertmix Dev Team** | Plugin Developer | Long-term custom orders for high-profile clients · *Java · PaperMC* |
-| **Apr 2018 – Mar 2019** | **JasMC.PL** | **Lead Developer** | MiniGames network for YouTuber **JDabrowsky** · *Java · PaperMC · BungeeCord · MySQL · Redis* |
-| **Dec 2017 – Oct 2018** | **FajnyCraft.PL** | Developer | Custom SkyBlock features & unique gameplay · *Java · PaperMC* |
+|--------|---------|---------|--------------|
+| 2026 – Present | **Blackthorn** | Lead Developer | Secure, accessible, compliant technology for federal agencies & enterprise |
+| 2026 – Present | **LegionHytale** | Lead Developer | Survival Hytale server · Java · Hytale |
+| 2025 – Present | **Fox Studios** | Developer | Java · PaperMC · MongoDB · Folia |
+| 2025 – Present | **OneShotCannoning** | Lead Developer | Custom cannoning mechanics engine · Java · Sakura-PaperFork |
+| 2025 – Present | **LeoneMC** | Developer | New gameplay mechanics, plugin maintenance · Java · Spigot · PaperMC |
+| 2025 – 2026 | **LegionMC** | Lead Developer | Next-gen Factions core, scalable backend, full DB layer · Java · PaperMC · MongoDB · Velocity · Redis |
+| 2025 – Jun 2025 | **HobbitMC** | Lead Developer | Themed systems, backend optimization · Java · PaperMC · MySQL · MongoDB · Redis |
+| Nov 2021 – Present | **Ignited Studios** | CEO & Lead Dev | Full-service studio: plugins, network setups, consulting · Full stack |
+| Nov 2021 – Jan 2023 | **Curiocraft.net** | Lead Developer | RPG Survival backend for YouTuber Baked · Java · PaperMC · MySQL · Redis · MongoDB |
+| Jan 2021 – Nov 2022 | **StellarDEV** | Plugin Developer | Client projects across multiple networks · Java · Spigot · PaperMC · MySQL · Redis · MongoDB |
+| Jan–May 2021 | **FireStreak** | Developer | Multiplayer Speedrun systems · Java · PaperMC |
+| Feb 2020 – May 2021 | **AnubisMC** | Plugin Developer | Optimized gamemodes & backend · Java · PaperMC · MySQL · Redis · MongoDB |
+| Dec 2020 | **Large-Scale Server** | Plugin Developer | Server prepared for large-scale launch · Java · PaperMC |
+| Feb–Nov 2020 | **Vertmix Dev Team** | Plugin Developer | Long-term custom orders for high-profile clients · Java · PaperMC |
+| Apr 2018 – Mar 2019 | **JasMC.PL** | Lead Developer | MiniGames network for YouTuber JDabrowsky · Java · PaperMC · BungeeCord · MySQL · Redis |
+| Dec 2017 – Oct 2018 | **FajnyCraft.PL** | Developer | Custom SkyBlock features & unique gameplay · Java · PaperMC |
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  SOCIAL PROOF                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+## Published Plugins
+
+### 🛒 Premium - Available on BuiltByBit
+
+| Plugin | Description | Platform |
+|--------|-------------|----------|
+| [**IgniteZombies** - CoD Zombies Experience](https://builtbybit.com/resources/ignitezombies-cod-zombies-experience.107073/) | Fully configurable zombie survival plugin with waves, arenas, rewards, and progression. Ready-to-use setup included. | BBB |
+| [**IgnitePaste** - Live Schematic Preview](https://builtbybit.com/resources/ignitepaste-live-schematic-preview.105938/) | Modern schematic paste mode with glowing outlines, block-accurate ghost previews, hotbar tools, and undo. | BBB |
+| [**Claim Blocks** - Claims Plugin](https://builtbybit.com/resources/claim-blocks-claims-plugin.91591/) | Full-featured land claiming for Hytale with trusted players & progressive upgrading. ⭐⭐⭐⭐⭐ | BBB |
+
+### 🆓 Free & Open-Source - Available on SpigotMC & GitHub
+
+| Plugin | Description |
+|--------|-------------|
+| [**TreasureHunt**](https://www.spigotmc.org/members/ignitedstudios.596329/#resources) | Interactive treasure hunts with MySQL sync, admin GUI & MiniMessage support |
+| [**BlazePolls**](https://www.spigotmc.org/members/ignitedstudios.596329/#resources) | In-game polling system with GUI & JSON persistence |
+| [**SimpleJSONConfig**](https://www.spigotmc.org/members/ignitedstudios.596329/#resources) | Smart JSON/YAML config & data store library for Bukkit/Spigot/Paper · ⭐⭐⭐⭐⭐ |
+| [**2Devs-EquipmentEffects**](https://www.spigotmc.org/members/ignitedstudios.596329/#resources) | Potion effects, particles & permissions on equipment · ⭐⭐⭐⭐⭐ (4 ratings, 1,500+ downloads) |
+| **IgniteFishingEvents** · **IgniteStreakRewards** · **IgniteLeveling** · **IgniteBackpack** | Utility plugins - free, production-ready, install and go |
+
+---
 
 ## What Clients Say
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-> *"Ignite and I have been through a lot together. We started small, and just one week later he delivered one of the biggest projects I've ever worked on. If you're lucky enough to find him, use him. Seriously, no joke, he's one of the best on the market. I'd love to gatekeep him, but unfortunately I don't have enough money 😄"*
->
-> **Petsen**
+> *"Ignite and I have been through a lot together. We started small, and just one week later he delivered one of the biggest projects I've ever worked on. If you're lucky enough to find him, use him. He's one of the best on the market."*
+> - **Petsen**
 
 > *"I've been through many devs before, but now I stick with him. Helped me develop a massive prison core with loads of features."*
->
-> **keys9**
+> - **keys9**
 
-> *"He works quickly and produces high quality work!"*
->
-> **Iyaku**
+> *"I love working with this dev. I used to ask 3–5 devs at a time - they'd ignore me or waste my time. But this dev always gives the best solution. Worth every penny."*
+> - **PieHater25**
 
-> *"Huge vouch. Friendly, professional, always meets expectations."*
->
-> **kawaii**
+> *"I'm dealing with eight developers, so I can tell who is good and who isn't. He is a man of trust and a man of skill. Fast, high quality, no bugs. 5 stars - all categories."*
+> - **luffy1025** (5× commissioned)
 
-</td>
-<td width="50%" valign="top">
+> *"Got the job done in basically 2 days. Prices are fair. He really makes sure you have a good plugin that does what you want. Also proactively offered a better custom solution instead of piggybacking on a third-party plugin."*
+> - **milk_milk**
 
-> *"Great worker, extremely motivated, grinds hard every day."*
->
-> **Gokor**
+> *"Huge vouch - friendly and professional throughout the whole process. Always meets my expectations."*
+> - **kawaii**
 
-> *"Fast, cheap, reliable."*
->
-> **CDFN**
+> *"Great worker, extremely motivated, grinds hard every day. Will work with him again."*
+> - **Gokor**
 
-> *"Excellent developer, quick and helpful. Completed the work excellently."*
->
-> **Monsterhit2**
+> *"Thanks for quick delivery. I got my plugin within one day of ordering. No bugs, no performance issues, everything configurable exactly as I wanted."*
+> - **MintMissy** *(BuiltByBit)*
 
-> *"Good and friendly developer."*
->
-> **Delusios**
+> *"Very good support and they know how to work well with databases, Linux and Java!"*
+> - **BBspaigot**
 
-</td>
-</tr>
-</table>
+> *"Excellent development team, quick and helpful. There were some misunderstandings due to my bad English, but they quickly made up for it by completing the work excellently."*
+> - **Monsterhit2**
 
-<br/>
+> *"Super fast, cheap, a great person, relatable, super nice - the perfect dev."*
+> - **Koriolis**
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  OPEN SOURCE                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+> *"Timely, polite, very satisfied with plugins from IgniteDEV."*
+> - **StaceeAnn**
 
-## Open-Source Plugins
+> *"Fast and efficient. Good communication."*
+> - **NessunoMC**
 
-*Free, maintained, and production-ready. Install and go.*
+> *"I guarantee that the coding is very fast and they will understand your needs carefully."*
+> - **waiching514**
 
-<details>
-<summary><b>🏴‍☠️ Treasure Hunt</b> · Interactive treasure hunts with MySQL sync, admin GUI & MiniMessage support</summary>
-<br/>
+> *"Very nice work, quick response, exactly did what I wanted."*
+> - **BorokBence**
 
-[![Downloads](https://img.shields.io/spiget/downloads/128153?label=Downloads&color=gold&style=flat-square)](https://www.spigotmc.org/resources/treasurehunt-1-0.128153/)
-[![Version](https://img.shields.io/spiget/version/128153?label=Latest&color=blue&style=flat-square)](https://www.spigotmc.org/resources/treasurehunt-1-0.128153/)
+> *"They work quickly and produce high quality work!"*
+> - **Iyaku**
 
-Turn your server into a world full of secrets. Hidden treasures, teleportation, full GUI, everything synced across your network.
+> *"Wonderful and quick work!"*
+> - **Matreats**
 
-[**GitHub**](https://github.com/IM-IgniteDEV/TreasureHunt) · [**Spigot**](https://www.spigotmc.org/resources/treasurehunt-1-0.128153/)
+<div align="center">
 
-</details>
+**60+ positive ratings on SpigotMC · Active since 2018**
 
-<details>
-<summary><b>📊 BlazePolls</b> · In-game polling system with GUI & JSON persistence</summary>
-<br/>
+</div>
 
-[![Downloads](https://img.shields.io/spiget/downloads/128149?label=Downloads&color=gold&style=flat-square)](https://www.spigotmc.org/resources/blazepolls-1-0.128149/)
-[![Version](https://img.shields.io/spiget/version/128149?label=Latest&color=blue&style=flat-square)](https://www.spigotmc.org/resources/blazepolls-1-0.128149/)
-
-Create polls your players actually engage with. MiniMessage customization, interactive GUI, clean data storage.
-
-[**GitHub**](https://github.com/IM-IgniteDEV/BlazePolls) · [**Spigot**](https://www.spigotmc.org/resources/blazepolls-1-0.128149/)
-
-</details>
-
-<details>
-<summary><b>🏰 Claim Blocks</b> · Full-featured land claiming plugin</summary>
-<br/>
-
-A powerful claims system that lets players protect their builds with an intuitive block-based claiming mechanic.
-
-[**BuiltByBit**](https://builtbybit.com/resources/claim-blocks-claims-plugin.91591/)
-
-</details>
-
-<details>
-<summary><b>⚙️ SimpleJSONConfig</b> · Lightweight config library for Bukkit/Spigot/Paper</summary>
-<br/>
-
-[![Downloads](https://img.shields.io/spiget/downloads/88844?label=Downloads&color=gold&style=flat-square)](https://www.spigotmc.org/resources/simplejsonconfig-smart-json-yaml-configs-data-stores-for-bukkit-spigot-paper.88844/)
-[![Version](https://img.shields.io/spiget/version/88844?label=Latest&color=blue&style=flat-square)](https://www.spigotmc.org/resources/simplejsonconfig-smart-json-yaml-configs-data-stores-for-bukkit-spigot-paper.88844/)
-
-JSON & YAML configs with auto-upgrade, caching, and zero boilerplate. The config library I wished existed, so I built it.
-
-[**GitHub**](https://github.com/IgnitedStudiosFire/SimpleJSONConfig) · [**Spigot**](https://www.spigotmc.org/resources/simplejsonconfig-smart-json-yaml-configs-data-stores-for-bukkit-spigot-paper.88844/)
-
-</details>
-
-<details>
-<summary><b>🛡 2Devs-EquipmentEffects</b> · Potion effects, particles & permissions on equipment</summary>
-<br/>
-
-[![Downloads](https://img.shields.io/spiget/downloads/90599?label=Downloads&color=gold&style=flat-square)](https://www.spigotmc.org/resources/2devs-equipmenteffects-equipment-effects-on-your-server-1-8-1-19.90599/)
-[![Version](https://img.shields.io/spiget/version/90599?label=Latest&color=blue&style=flat-square)](https://www.spigotmc.org/resources/2devs-equipmenteffects-equipment-effects-on-your-server-1-8-1-19.90599/)
-
-Give armor and items powerful effects. Potions, particles, permissions, or command execution on equip.
-
-[**GitHub**](https://github.com/2DevsStudio/2Devs-EquipmentEffects) · [**Spigot**](https://www.spigotmc.org/resources/2devs-equipmenteffects-equipment-effects-on-your-server-1-8-1-19.90599/)
-
-</details>
-
-<details>
-<summary><b>🎣 IgniteFishingEvents</b> · <b>🔥 IgniteStreakRewards</b> · <b>📈 IgniteLeveling</b> · <b>🎒 IgniteBackpack</b></summary>
-<br/>
-
-| Plugin | What It Does |
-|--------|-------------|
-| [**IgniteFishingEvents**](https://github.com/IM-IgniteDEV/IgniteFishingEvents) | Custom fishing events with unique integrations |
-| [**IgniteStreakRewards**](https://github.com/IM-IgniteDEV/IgniteStreakRewards) | Streak-based reward system with perks & bonuses |
-| [**IgniteLeveling**](https://github.com/IM-IgniteDEV/IgniteLeveling) | Flexible leveling framework with XP, progression, stat boosts |
-| [**IgniteBackpack**](https://github.com/IM-IgniteDEV/IgniteBackpack) | Custom backpack inventories with 3D model rendering |
-
-</details>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    STATS                                  -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+---
 
 ## GitHub Stats
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=IM-IgniteDEV&theme=github-dark-blue&hide_border=true&background=0d1117&ring=FF6B35&fire=FFD700&currStreakLabel=F7931E&sideLabels=F7931E" height="160" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IM-IgniteDEV&theme=github-dark&hide_border=true&bg_color=0d1117&color=FF6B35&line=F7931E&point=FFD700" width="95%" />
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=IM-IgniteDEV&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=FF8C42"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IM-IgniteDEV&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF6B35"/>
 </div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     CTA FOOTER                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
 
 ---
 
-### Ready to build something great?
+<div align="center">
 
-Whether you need a **custom plugin**, a **full network backend**, or a **dedicated lead developer**, let's talk.
+## Ready to build something great?
 
-<br/>
+Whether you need a custom plugin, a full network backend, or a dedicated lead developer - let's talk.
 
-[![Email Me](https://img.shields.io/badge/📧_Email_Me-FF6B35?style=for-the-badge)](mailto:ignitedevcontact@gmail.com)
-&nbsp;&nbsp;
-[![Discord](https://img.shields.io/badge/💬_Discord-5865F2?style=for-the-badge)](https://discord.com/users/)
-&nbsp;&nbsp;
-[![SpigotMC](https://img.shields.io/badge/🔧_SpigotMC-ED8106?style=for-the-badge)](https://www.spigotmc.org/members/2devsstudio.596329/)
-&nbsp;&nbsp;
-[![BuiltByBit](https://img.shields.io/badge/🛒_BuiltByBit-FF6B6B?style=for-the-badge)](https://builtbybit.com/members/ignited-studios.289748/)
+`Open to full-time positions` · `Contract work` · `Large project collaborations`
 
-<br/>
+[![Email](https://img.shields.io/badge/Email_Me-ignitedevcontact@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:ignitedevcontact@gmail.com)
+[![SpigotMC](https://img.shields.io/badge/SpigotMC_Profile-60+_Ratings-ED8106?style=for-the-badge)](https://www.spigotmc.org/members/ignitedstudios.596329/)
+[![BuiltByBit](https://img.shields.io/badge/BuiltByBit_Store-Premium_Plugins-00BFFF?style=for-the-badge)](https://builtbybit.com/members/ignited-studios.289748/)
 
-*Open to full-time positions · Contract work · Large project collaborations*
+</div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7931E,100:FFD700&height=100&section=footer" width="100%" />
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35,FF8C42&height=100&section=footer" width="100%"/>
 </div>
