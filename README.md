@@ -124,6 +124,8 @@ I don't just write code. I plan, architect, build, test, and deliver. You get a 
 |--------|-------------|----------|
 | [**IgniteZombies** - CoD Zombies Experience](https://builtbybit.com/resources/ignitezombies-cod-zombies-experience.107073/) | Fully configurable zombie survival plugin with waves, arenas, rewards, and progression. Ready-to-use setup included. | BBB |
 | [**IgnitePaste** - Live Schematic Preview](https://builtbybit.com/resources/ignitepaste-live-schematic-preview.105938/) | Modern schematic paste mode with glowing outlines, block-accurate ghost previews, hotbar tools, and undo. ⭐⭐⭐⭐⭐ | BBB |
+| [**Ignite EquipmentPro - Equipment engine](https://builtbybit.com/resources/ignite-equipmentpro-equipment-engine.108362/) | IgniteEquipmentPro is the premium successor to IgniteEquipmentEffects. It turns any Bukkit ItemStack into a fully programmable piece of equipment | BBB |
+| [**Ignite Crafts - Custom Quest craftings](https://builtbybit.com/resources/ignite-crafts-custom-quest-craftings.107452/) | Quest locked custom crafts engine with extensive configuration, abilities, quest system to unlock crafting + PREMADE UHC items with abilities | BBB |
 | [**Claim Blocks** - Claims Plugin](https://builtbybit.com/resources/claim-blocks-claims-plugin.91591/) | Full-featured land claiming for Hytale with trusted players & progressive upgrading. ⭐⭐⭐⭐⭐ | BBB |
 
 ### 🆓 Free & Open-Source - Available on SpigotMC & GitHub
@@ -190,6 +192,9 @@ I don't just write code. I plan, architect, build, test, and deliver. You get a 
 
 > *"Wonderful and quick work!"*
 > - **Matreats**
+
+> *"Communication was smooth from start to finish, and the entire process exceeded my expectations. The plugin turned out even better than I imagined, with great attention to detail and a professional approach throughout development. Cooperation was easy, updates were clear, and every request was handled quickly. I’m extremely happy with the final product and look forward to working with this developer again on future projects. Highly recommended!"*
+> - **imchxos**
 
 <div align="center">
 
