@@ -97,25 +97,25 @@ I don't just write code. I plan, architect, build, test, and deliver. You get a 
 
 | Period | Project | My Role | What I Built |
 |--------|---------|---------|--------------|
-| 2026 – Present | **OakMont** | Lead Developer | Secure, SysOPS, Development, Websites Support, Accessible, compliant technology for federal agencies & enterprise |
-| Jun 2026 – Present | **JustVanilla** | Developer | Optimalization, SysOPS, Java |
-| 2026 – Jan 2026 | **LegionHytale** | Lead Developer | Survival Hytale server · Java · Hytale |
-| Mar 2026 – Present | **Aurora** | Developer | New generation Towny - Really advanced mechanics · Java · Hytale |
-| 2025 – Present | **Fox Studios** | Developer | Java · PaperMC · MongoDB · Folia |
-| Sep 2025 – Dec 2025 | **Arcanius** | Developer | Skyblock Server | Java · PaperMC · MongoDB · Folia |
-| 2025 – Present | **OneShotCannoning** | Lead Developer | Custom cannoning mechanics engine · Java · Sakura-PaperFork |
-| 2025 – Present | **LeoneMC** | Developer | New gameplay mechanics, plugin maintenance · Java · Spigot · PaperMC |
-| 2025 – Jan 2026 | **LegionMC** | Lead Developer | Next-gen Factions core, scalable backend, full DB layer · Java · PaperMC · MongoDB · Velocity · Redis |
-| 2025 – Jun 2025 | **HobbitMC** | Lead Developer | Themed systems, backend optimization · Java · PaperMC · MySQL · MongoDB · Redis |
-| Nov 2021 – Present | **Ignited Studios** | CEO & Lead Dev | Full-service studio: plugins, network setups, consulting · Full stack |
-| Nov 2021 – Jan 2023 | **Curiocraft.net** | Lead Developer | RPG Survival backend for YouTuber Baked · Java · PaperMC · MySQL · Redis · MongoDB |
-| Jan 2021 – Nov 2022 | **StellarDEV** | Plugin Developer | Client projects across multiple networks · Java · Spigot · PaperMC · MySQL · Redis · MongoDB |
-| Jan–May 2021 | **FireStreak** | Developer | Multiplayer Speedrun systems · Java · PaperMC |
-| Feb 2020 – May 2021 | **AnubisMC** | Plugin Developer | Optimized gamemodes & backend · Java · PaperMC · MySQL · Redis · MongoDB |
+| 2026 - Present | **OakMont** | Lead Developer | Secure, SysOPS, Development, Websites Support, Accessible, compliant technology for federal agencies & enterprise |
+| Jun 2026 - Present | **JustVanilla** | Developer | Optimalization, SysOPS, Java |
+| 2026 - Jan 2026 | **LegionHytale** | Lead Developer | Survival Hytale server · Java · Hytale |
+| Mar 2026 - Present | **Aurora** | Developer | New generation Towny - Really advanced mechanics · Java · Hytale |
+| 2025 - Present | **Fox Studios** | Developer | Java · PaperMC · MongoDB · Folia |
+| Sep 2025 - Dec 2025 | **Arcanius** | Developer | Skyblock Server | Java · PaperMC · MongoDB · Folia |
+| 2025 - Present | **OneShotCannoning** | Lead Developer | Custom cannoning mechanics engine · Java · Sakura-PaperFork |
+| 2025 - Present | **LeoneMC** | Developer | New gameplay mechanics, plugin maintenance · Java · Spigot · PaperMC |
+| 2025 - Jan 2026 | **LegionMC** | Lead Developer | Next-gen Factions core, scalable backend, full DB layer · Java · PaperMC · MongoDB · Velocity · Redis |
+| 2025 - Jun 2025 | **HobbitMC** | Lead Developer | Themed systems, backend optimization · Java · PaperMC · MySQL · MongoDB · Redis |
+| Nov 2021 - Present | **Ignited Studios** | CEO & Lead Dev | Full-service studio: plugins, network setups, consulting · Full stack |
+| Nov 2021 - Jan 2023 | **Curiocraft.net** | Lead Developer | RPG Survival backend for YouTuber Baked · Java · PaperMC · MySQL · Redis · MongoDB |
+| Jan 2021 - Nov 2022 | **StellarDEV** | Plugin Developer | Client projects across multiple networks · Java · Spigot · PaperMC · MySQL · Redis · MongoDB |
+| Jan-May 2021 | **FireStreak** | Developer | Multiplayer Speedrun systems · Java · PaperMC |
+| Feb 2020 - May 2021 | **AnubisMC** | Plugin Developer | Optimized gamemodes & backend · Java · PaperMC · MySQL · Redis · MongoDB |
 | Dec 2020 | **Large-Scale Server** | Plugin Developer | Server prepared for large-scale launch · Java · PaperMC |
-| Feb–Nov 2020 | **Vertmix Dev Team** | Plugin Developer | Long-term custom orders for high-profile clients · Java · PaperMC |
-| Apr 2018 – Mar 2019 | **JasMC.PL** | Lead Developer | MiniGames network for YouTuber JDabrowsky · Java · PaperMC · BungeeCord · MySQL · Redis |
-| Dec 2017 – Oct 2018 | **FajnyCraft.PL** | Developer | Custom SkyBlock features & unique gameplay · Java · PaperMC |
+| Feb-Nov 2020 | **Vertmix Dev Team** | Plugin Developer | Long-term custom orders for high-profile clients · Java · PaperMC |
+| Apr 2018 - Mar 2019 | **JasMC.PL** | Lead Developer | MiniGames network for YouTuber JDabrowsky · Java · PaperMC · BungeeCord · MySQL · Redis |
+| Dec 2017 - Oct 2018 | **FajnyCraft.PL** | Developer | Custom SkyBlock features & unique gameplay · Java · PaperMC |
 
 ---
 
@@ -151,7 +151,7 @@ I don't just write code. I plan, architect, build, test, and deliver. You get a 
 > *"I've been through many devs before, but now I stick with him. Helped me develop a massive prison core with loads of features."*
 > - **keys9**
 
-> *"I love working with this dev. I used to ask 3–5 devs at a time - they'd ignore me or waste my time. But this dev always gives the best solution. Worth every penny."*
+> *"I love working with this dev. I used to ask 3-5 devs at a time - they'd ignore me or waste my time. But this dev always gives the best solution. Worth every penny."*
 > - **PieHater25**
 
 > *"I'm dealing with eight developers, so I can tell who is good and who isn't. He is a man of trust and a man of skill. Fast, high quality, no bugs. 5 stars - all categories."*
