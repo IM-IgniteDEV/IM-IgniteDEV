@@ -12,6 +12,8 @@
 [![Discord](https://img.shields.io/badge/Discord-IgniteDEV%231465-5865F2?style=for-the-badge&logo=discord)](https://discord.com)
 [![SpigotMC](https://img.shields.io/badge/SpigotMC-IgnitedStudios-ED8106?style=for-the-badge)](https://www.spigotmc.org/members/ignitedstudios.596329/)
 [![BuiltByBit](https://img.shields.io/badge/BuiltByBit-Ignited_Studios-00BFFF?style=for-the-badge)](https://builtbybit.com/members/ignited-studios.289748/)
+[![Website](https://img.shields.io/badge/Website-ignitedstudios.dev-FF6B35?style=for-the-badge)](https://ignitedstudios.dev/)
+[![Plugins](https://img.shields.io/badge/Plugins-Paper_%26_Folia-F7931E?style=for-the-badge)](https://ignitedstudios.dev/plugins)
 
 </div>
 
